@@ -1,0 +1,408 @@
+1
+00:00:02,051 --> 00:00:03,461
+Welcome to The Expanse,
+
+2
+00:00:03,481 --> 00:00:04,636
+season one.
+
+3
+00:00:04,656 --> 00:00:06,536
+It's the twenty-third century.
+
+4
+00:00:06,556 --> 00:00:08,861
+Earth is crowded and powerful.
+
+5
+00:00:08,881 --> 00:00:11,171
+Mars is a young military power,
+
+6
+00:00:11,191 --> 00:00:14,116
+slowly turning its red deserts green.
+
+7
+00:00:14,226 --> 00:00:16,281
+And Belters mine the asteroids,
+
+8
+00:00:16,301 --> 00:00:18,231
+tired of being pushed around.
+
+9
+00:00:18,251 --> 00:00:20,331
+Nobody trusts anybody.
+
+10
+00:00:20,351 --> 00:00:22,256
+Three stories start far apart,
+
+11
+00:00:22,276 --> 00:00:23,026
+and by the end,
+
+12
+00:00:23,046 --> 00:00:24,201
+they collide.
+
+13
+00:00:24,221 --> 00:00:25,499
+Spoilers ahead!
+
+14
+00:00:26,248 --> 00:00:28,333
+Story one: the Canterbury.
+
+15
+00:00:28,353 --> 00:00:30,083
+Jim Holden is an officer on an
+
+16
+00:00:30,103 --> 00:00:32,718
+ice hauler, carrying water from Saturn's rings
+
+17
+00:00:32,738 --> 00:00:34,993
+to thirsty stations in the Belt.
+
+18
+00:00:35,013 --> 00:00:37,193
+Out here, water is life.
+
+19
+00:00:37,213 --> 00:00:39,228
+One day, the crew answers a distress
+
+20
+00:00:39,248 --> 00:00:40,853
+call from a drifting ship called the
+
+21
+00:00:40,873 --> 00:00:42,028
+Scopuli.
+
+22
+00:00:42,048 --> 00:00:43,303
+It's a trap.
+
+23
+00:00:43,323 --> 00:00:45,403
+Mystery ships destroy the Canterbury,
+
+24
+00:00:45,423 --> 00:00:47,481
+and only five people escape in a
+
+25
+00:00:47,501 --> 00:00:49,553
+shuttle: Holden, Naomi,
+
+26
+00:00:49,573 --> 00:00:51,554
+Amos, Alex, and Shed.
+
+27
+00:00:52,281 --> 00:00:54,161
+Holden finds a Martian part on the
+
+28
+00:00:54,181 --> 00:00:56,236
+trap and blames Mars on an open
+
+29
+00:00:56,256 --> 00:00:58,911
+broadcast, and the Belt erupts.
+
+30
+00:00:58,931 --> 00:00:59,886
+A Martian warship,
+
+31
+00:00:59,906 --> 00:01:01,606
+the Donnager, picks them up,
+
+32
+00:01:01,626 --> 00:01:03,881
+then gets destroyed by the same stealthy
+
+33
+00:01:03,901 --> 00:01:04,806
+ships.
+
+34
+00:01:04,826 --> 00:01:06,806
+The crew escapes in a small Martian
+
+35
+00:01:06,826 --> 00:01:08,081
+ship, the Tachi,
+
+36
+00:01:08,101 --> 00:01:10,456
+and renames it the Rocinante.
+
+37
+00:01:10,476 --> 00:01:11,981
+At Tycho Station,
+
+38
+00:01:12,001 --> 00:01:14,741
+Fred Johnson of the Outer Planets Alliance,
+
+39
+00:01:14,761 --> 00:01:17,631
+the OPA, helps them start hunting for
+
+40
+00:01:17,651 --> 00:01:18,520
+answers.
+
+41
+00:01:19,269 --> 00:01:21,294
+Story two: Ceres.
+
+42
+00:01:21,314 --> 00:01:23,369
+Detective Joe Miller is a Belter cop
+
+43
+00:01:23,389 --> 00:01:24,869
+with a battered hat and a side
+
+44
+00:01:24,889 --> 00:01:26,819
+job: find Julie Mao,
+
+45
+00:01:26,839 --> 00:01:28,669
+the runaway daughter of a rich Earth
+
+46
+00:01:28,689 --> 00:01:29,719
+family.
+
+47
+00:01:29,739 --> 00:01:31,094
+Ceres is crowded,
+
+48
+00:01:31,114 --> 00:01:32,339
+thirsty, and tense,
+
+49
+00:01:32,359 --> 00:01:34,034
+and Miller has seen it all.
+
+50
+00:01:34,074 --> 00:01:35,424
+But the deeper he digs,
+
+51
+00:01:35,444 --> 00:01:37,274
+the stranger it gets.
+
+52
+00:01:37,294 --> 00:01:39,049
+Julie was on the Scopuli,
+
+53
+00:01:39,069 --> 00:01:40,624
+the same ship that lured in the
+
+54
+00:01:40,644 --> 00:01:41,874
+Canterbury.
+
+55
+00:01:41,894 --> 00:01:43,224
+Miller won't drop the case,
+
+56
+00:01:43,244 --> 00:01:44,884
+so his boss fires him.
+
+57
+00:01:45,589 --> 00:01:48,624
+Miller follows Julie's trail to Eros,
+
+58
+00:01:48,644 --> 00:01:50,249
+a station in the Belt that's home
+
+59
+00:01:50,269 --> 00:01:52,224
+to about a hundred thousand people,
+
+60
+00:01:52,244 --> 00:01:54,874
+and runs straight into Holden's crew.
+
+61
+00:01:54,894 --> 00:01:56,774
+The cynic and the idealist make an
+
+62
+00:01:56,794 --> 00:01:57,999
+odd pair.
+
+63
+00:01:58,019 --> 00:01:59,544
+Together they find Julie,
+
+64
+00:01:59,564 --> 00:02:00,894
+but too late.
+
+65
+00:02:00,914 --> 00:02:03,294
+She was infected by something alien,
+
+66
+00:02:03,314 --> 00:02:05,139
+the protomolecule.
+
+67
+00:02:05,249 --> 00:02:06,714
+And the company that found it,
+
+68
+00:02:06,734 --> 00:02:09,139
+Protogen, is about to test it on
+
+69
+00:02:09,159 --> 00:02:11,059
+everyone aboard Eros.
+
+70
+00:02:11,811 --> 00:02:13,841
+Story three: Earth.
+
+71
+00:02:13,861 --> 00:02:16,591
+Chrisjen Avasarala is a top United Nations
+
+72
+00:02:16,611 --> 00:02:19,886
+official with sharp words and sharper instincts.
+
+73
+00:02:19,996 --> 00:02:21,351
+She'll work with anyone,
+
+74
+00:02:21,371 --> 00:02:22,401
+swear at anyone,
+
+75
+00:02:22,421 --> 00:02:25,151
+and she's always thinking three moves ahead.
+
+76
+00:02:25,171 --> 00:02:27,251
+While everyone else blames Mars or the
+
+77
+00:02:27,271 --> 00:02:29,726
+Belt, she asks a better question:
+
+78
+00:02:29,746 --> 00:02:31,976
+who actually gains from a war?
+
+79
+00:02:31,996 --> 00:02:33,701
+She reaches out to Mars through an
+
+80
+00:02:33,721 --> 00:02:36,493
+old friend, and the conspiracy pushes back.
+
+81
+00:02:37,247 --> 00:02:38,477
+Following the money,
+
+82
+00:02:38,497 --> 00:02:40,802
+Avasarala finds that the stealth ships were
+
+83
+00:02:40,822 --> 00:02:43,227
+built in Earth's own shipyards for private
+
+84
+00:02:43,247 --> 00:02:44,602
+contractors.
+
+85
+00:02:44,622 --> 00:02:46,427
+The attacks on the Canterbury and the
+
+86
+00:02:46,447 --> 00:02:48,827
+Donnager were designed to make Earth,
+
+87
+00:02:48,847 --> 00:02:51,377
+Mars, and the Belt blame each other.
+
+88
+00:02:51,397 --> 00:02:53,977
+The trail points to Jules-Pierre Mao,
+
+89
+00:02:53,997 --> 00:02:56,677
+Julie's father, and to her own boss,
+
+90
+00:02:56,697 --> 00:02:58,402
+Sadavir Errinwright.
+
+91
+00:02:58,422 --> 00:03:00,467
+Someone on Earth wants this war.
+
+92
+00:03:01,204 --> 00:03:02,184
+In the finale,
+
+93
+00:03:02,204 --> 00:03:04,694
+Eros falls to the protomolecule,
+
+94
+00:03:04,714 --> 00:03:06,419
+and Holden and Miller fight their way
+
+95
+00:03:06,439 --> 00:03:08,489
+back to the Rocinante.
+
+96
+00:03:08,554 --> 00:03:10,469
+The crew has become a family,
+
+97
+00:03:10,489 --> 00:03:11,994
+Miller has a new purpose,
+
+98
+00:03:12,014 --> 00:03:14,819
+and Avasarala knows who her enemies are.
+
+99
+00:03:14,839 --> 00:03:17,094
+Three stories, one conspiracy,
+
+100
+00:03:17,114 --> 00:03:18,894
+and a solar system that will never
+
+101
+00:03:18,914 --> 00:03:20,269
+be the same.
+
+102
+00:03:20,289 --> 00:03:22,320
+Next up: season two.
+

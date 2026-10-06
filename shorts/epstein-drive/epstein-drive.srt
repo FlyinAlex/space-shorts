@@ -1,0 +1,452 @@
+1
+00:00:02,051 --> 00:00:03,781
+What if one engine could shrink the
+
+2
+00:00:03,801 --> 00:00:05,131
+solar system?
+
+3
+00:00:05,151 --> 00:00:05,964
+In The Expanse,
+
+4
+00:00:05,984 --> 00:00:09,031
+a single invention does exactly that.
+
+5
+00:00:09,051 --> 00:00:11,256
+It's called the Epstein Drive.
+
+6
+00:00:11,276 --> 00:00:13,706
+Let's explore it as a thought experiment,
+
+7
+00:00:13,726 --> 00:00:16,056
+grounded in real science.
+
+8
+00:00:16,076 --> 00:00:18,088
+Optimistic, but possible.
+
+9
+00:00:18,801 --> 00:00:19,806
+In the story,
+
+10
+00:00:19,826 --> 00:00:23,156
+Solomon Epstein is an engineer on Mars.
+
+11
+00:00:23,176 --> 00:00:24,381
+In his spare time,
+
+12
+00:00:24,401 --> 00:00:26,631
+he upgrades a fusion engine and bolts
+
+13
+00:00:26,651 --> 00:00:28,831
+it onto his own small yacht.
+
+14
+00:00:28,851 --> 00:00:31,656
+It works far better than anyone expected.
+
+15
+00:00:31,676 --> 00:00:33,331
+He doesn't survive the ride,
+
+16
+00:00:33,351 --> 00:00:35,006
+but his design does,
+
+17
+00:00:35,026 --> 00:00:37,406
+and soon ships everywhere are flying with
+
+18
+00:00:37,426 --> 00:00:37,780
+it.
+
+19
+00:00:38,477 --> 00:00:39,932
+So how does it work?
+
+20
+00:00:39,952 --> 00:00:42,107
+At its heart is a fusion reactor.
+
+21
+00:00:42,127 --> 00:00:44,057
+Tiny bits of fuel are squeezed until
+
+22
+00:00:44,077 --> 00:00:45,507
+their atoms fuse,
+
+23
+00:00:45,527 --> 00:00:48,357
+releasing a blast of superhot plasma.
+
+24
+00:00:48,377 --> 00:00:50,482
+No metal nozzle could touch that,
+
+25
+00:00:50,502 --> 00:00:52,182
+so magnetic fields shape it into a
+
+26
+00:00:52,202 --> 00:00:54,632
+jet, shooting out the back at thousands
+
+27
+00:00:54,652 --> 00:00:56,682
+of kilometers per second.
+
+28
+00:00:56,702 --> 00:00:59,507
+Real teams are building early cousins:
+
+29
+00:00:59,527 --> 00:01:01,857
+the Direct Fusion Drive at Princeton,
+
+30
+00:01:01,877 --> 00:01:03,947
+Pulsar Fusion's Sunbird,
+
+31
+00:01:03,967 --> 00:01:06,072
+and the magnetic nozzle of the VASIMR
+
+32
+00:01:06,092 --> 00:01:06,797
+engine.
+
+33
+00:01:07,459 --> 00:01:09,414
+The hardest part isn't thrust.
+
+34
+00:01:09,434 --> 00:01:10,439
+It's heat.
+
+35
+00:01:10,459 --> 00:01:12,389
+Pushing a big ship at 1 g takes
+
+36
+00:01:12,409 --> 00:01:13,849
+trillions of watts,
+
+37
+00:01:13,869 --> 00:01:15,474
+and even a tiny leak could melt
+
+38
+00:01:15,494 --> 00:01:16,124
+it.
+
+39
+00:01:16,144 --> 00:01:17,549
+The smart trick is to let the
+
+40
+00:01:17,569 --> 00:01:19,624
+exhaust carry the heat away.
+
+41
+00:01:19,644 --> 00:01:22,099
+Fuels like helium-3 release most of their
+
+42
+00:01:22,119 --> 00:01:24,199
+energy as charged particles,
+
+43
+00:01:24,219 --> 00:01:26,824
+which magnets steer straight out the back.
+
+44
+00:01:26,844 --> 00:01:29,479
+What's left goes to glowing radiators,
+
+45
+00:01:29,499 --> 00:01:32,279
+or even sprays of liquid metal droplets
+
+46
+00:01:32,299 --> 00:01:33,954
+that cool off in space and get
+
+47
+00:01:33,974 --> 00:01:34,830
+caught again.
+
+48
+00:01:35,501 --> 00:01:36,731
+Now the fun part:
+
+49
+00:01:36,751 --> 00:01:38,181
+flip and burn.
+
+50
+00:01:38,201 --> 00:01:39,493
+Speed up for the first half of
+
+51
+00:01:39,513 --> 00:01:40,721
+the trip, flip around,
+
+52
+00:01:40,741 --> 00:01:42,646
+and brake for the second half.
+
+53
+00:01:42,666 --> 00:01:44,796
+Travel time is two times the square
+
+54
+00:01:44,816 --> 00:01:47,246
+root of distance over acceleration.
+
+55
+00:01:47,266 --> 00:01:50,171
+Today, Mars takes about seven months.
+
+56
+00:01:50,191 --> 00:01:52,041
+At 1 g, it takes two to five
+
+57
+00:01:52,061 --> 00:01:52,941
+days.
+
+58
+00:01:52,961 --> 00:01:55,191
+At 1.5 g, about the most people can
+
+59
+00:01:55,211 --> 00:01:56,346
+handle for days,
+
+60
+00:01:56,366 --> 00:01:57,696
+it's under four.
+
+61
+00:01:57,716 --> 00:01:59,856
+Even Saturn is about a week away,
+
+62
+00:01:59,876 --> 00:02:00,956
+and the whole time,
+
+63
+00:02:00,976 --> 00:02:02,726
+thrust feels like gravity.
+
+64
+00:02:03,425 --> 00:02:04,565
+In the books and the show,
+
+65
+00:02:04,585 --> 00:02:06,765
+people settle the Moon and Mars first,
+
+66
+00:02:06,785 --> 00:02:07,865
+slowly.
+
+67
+00:02:07,885 --> 00:02:09,440
+Then the drive arrives,
+
+68
+00:02:09,460 --> 00:02:11,065
+more than a century before the main
+
+69
+00:02:11,085 --> 00:02:13,965
+story, and humanity rushes outward:
+
+70
+00:02:13,985 --> 00:02:16,265
+to Ceres and the asteroid Belt,
+
+71
+00:02:16,285 --> 00:02:18,940
+then the moons of Jupiter and Saturn.
+
+72
+00:02:18,960 --> 00:02:21,665
+Faster travel reshapes politics.
+
+73
+00:02:21,685 --> 00:02:24,135
+Earth, Mars, and the Belters become three
+
+74
+00:02:24,155 --> 00:02:26,370
+powers, trading, competing,
+
+75
+00:02:26,390 --> 00:02:28,627
+and arguing over who's in charge.
+
+76
+00:02:29,362 --> 00:02:30,742
+Now our twist.
+
+77
+00:02:30,762 --> 00:02:33,097
+What if Mars invents the drive first,
+
+78
+00:02:33,117 --> 00:02:34,622
+around 2090?
+
+79
+00:02:34,642 --> 00:02:37,817
+Martians want fast travel more than anyone.
+
+80
+00:02:37,902 --> 00:02:40,182
+But Mars can't build a migration fleet
+
+81
+00:02:40,202 --> 00:02:41,252
+alone.
+
+82
+00:02:41,322 --> 00:02:43,502
+So it licenses the design to Earth's
+
+83
+00:02:43,522 --> 00:02:46,652
+shipyards, and trades it for early self-rule.
+
+84
+00:02:46,672 --> 00:02:48,202
+Earth builds ships,
+
+85
+00:02:48,222 --> 00:02:49,977
+Mars gets its independence,
+
+86
+00:02:49,997 --> 00:02:51,902
+and the Belt opens about a century
+
+87
+00:02:51,922 --> 00:02:52,612
+early.
+
+88
+00:02:53,306 --> 00:02:55,786
+To compare, we built a simple population
+
+89
+00:02:55,806 --> 00:02:56,736
+model.
+
+90
+00:02:56,756 --> 00:02:57,561
+It's a model,
+
+91
+00:02:57,581 --> 00:02:59,036
+not a forecast:
+
+92
+00:02:59,056 --> 00:03:01,011
+birth rates, room to live,
+
+93
+00:03:01,031 --> 00:03:03,411
+and how many people ships can carry.
+
+94
+00:03:03,431 --> 00:03:04,586
+Without the drive,
+
+95
+00:03:04,606 --> 00:03:06,661
+only a few million people live off
+
+96
+00:03:06,681 --> 00:03:08,811
+Earth by 2200.
+
+97
+00:03:08,831 --> 00:03:11,086
+With a Martian drive in 2090,
+
+98
+00:03:11,106 --> 00:03:13,021
+it's over a hundred million,
+
+99
+00:03:13,041 --> 00:03:15,171
+and the Belt passes one million people
+
+100
+00:03:15,191 --> 00:03:17,468
+by about 2145.
+
+101
+00:03:18,154 --> 00:03:20,144
+With AI speeding up research,
+
+102
+00:03:20,164 --> 00:03:22,844
+this timeline might even be conservative.
+
+103
+00:03:22,864 --> 00:03:25,769
+Designs, simulations, and new materials could all
+
+104
+00:03:25,789 --> 00:03:27,364
+arrive faster.
+
+105
+00:03:27,439 --> 00:03:29,869
+But some things AI can't rush:
+
+106
+00:03:29,889 --> 00:03:31,614
+building fleets, growing food,
+
+107
+00:03:31,634 --> 00:03:33,914
+and raising generations of kids in low
+
+108
+00:03:33,934 --> 00:03:34,989
+gravity.
+
+109
+00:03:35,009 --> 00:03:37,989
+Those take real time and real people.
+
+110
+00:03:38,009 --> 00:03:39,589
+So, optimistic?
+
+111
+00:03:39,609 --> 00:03:40,639
+Definitely.
+
+112
+00:03:40,659 --> 00:03:41,514
+Possible?
+
+113
+00:03:41,534 --> 00:03:42,860
+Let's go find out.
+

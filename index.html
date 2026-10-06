@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Space Story Shorts</title>
+<meta name="description" content="Narrated animated shorts about The Expanse and Arthur C. Clarke's Space Odyssey, made for high schoolers.">
+<meta property="og:title" content="Space Story Shorts">
+<meta property="og:description" content="Narrated animated shorts about The Expanse and the Space Odyssey books, made for high schoolers.">
+<meta property="og:image" content="shorts/epstein-drive/poster.jpg">
+<style>
+@font-face { font-family: 'Inter'; font-weight: 400; font-display: swap; src: url(fonts/inter-latin-400-normal.woff2) format('woff2'); }
+@font-face { font-family: 'Inter'; font-weight: 600; font-display: swap; src: url(fonts/inter-latin-600-normal.woff2) format('woff2'); }
+@font-face { font-family: 'Space Grotesk'; font-weight: 700; font-display: swap; src: url(fonts/space-grotesk-latin-700-normal.woff2) format('woff2'); }
+:root { --bg: #03050f; --fg: #eef3ff; --muted: #97a8d0; --accent: #86e3ff; --gold: #ffd166; --panel: #0c1534; --edge: #2c3d78; --violet: #b9a6ff; color-scheme: dark; }
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--bg); color: var(--fg); font-family: 'Inter', system-ui, sans-serif; line-height: 1.5; }
+body { background: radial-gradient(1200px 600px at 50% -200px, #14245a 0%, rgba(3,5,15,0) 70%), var(--bg); min-height: 100vh; overflow-x: hidden; }
+.stars { position: fixed; inset: 0; pointer-events: none; opacity: .5; background-image: radial-gradient(1px 1px at 12% 18%, #fff 50%, transparent 51%), radial-gradient(1px 1px at 72% 8%, #cfe 50%, transparent 51%), radial-gradient(1px 1px at 40% 62%, #fff 50%, transparent 51%), radial-gradient(1px 1px at 88% 44%, #fff 50%, transparent 51%), radial-gradient(1px 1px at 22% 84%, #dde 50%, transparent 51%), radial-gradient(1px 1px at 58% 32%, #fff 50%, transparent 51%), radial-gradient(1px 1px at 6% 52%, #fff 50%, transparent 51%), radial-gradient(1px 1px at 94% 88%, #cfe 50%, transparent 51%); background-size: 420px 420px; }
+main { position: relative; max-width: 1180px; margin: 0 auto; padding: 0 16px 64px; }
+header.hero { padding: 72px 0 40px; text-align: center; }
+.eyebrow { font: 600 13px 'Inter', sans-serif; letter-spacing: .18em; text-transform: uppercase; color: var(--accent); margin: 0 0 12px; }
+h1 { font: 700 clamp(38px, 7vw, 72px)/1.05 'Space Grotesk', 'Inter', sans-serif; margin: 0 0 16px; letter-spacing: -.01em; }
+h1 span { color: var(--gold); }
+.lede { color: var(--muted); font-size: clamp(16px, 2vw, 19px); max-width: 640px; margin: 0 auto 28px; }
+.jump { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+.jump a { padding: 12px 22px; border-radius: 999px; border: 1px solid var(--edge); background: var(--panel); color: var(--fg); text-decoration: none; font-weight: 600; }
+.jump a.primary { background: var(--accent); border-color: var(--accent); color: #04122a; }
+section { margin-top: 56px; }
+.sec-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; flex-wrap: wrap; border-bottom: 1px solid var(--edge); padding-bottom: 12px; margin-bottom: 24px; }
+h2 { font: 700 clamp(26px, 4vw, 36px)/1.1 'Space Grotesk', 'Inter', sans-serif; margin: 0; }
+.sec-head p { margin: 0; color: var(--muted); }
+#odyssey { --accent: var(--violet); }
+ol.grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+.card { background: var(--panel); border: 1px solid var(--edge); border-radius: 14px; overflow: hidden; display: flex; flex-direction: column; transition: border-color .15s, transform .15s; }
+.card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.thumb { position: relative; display: block; aspect-ratio: 16/9; background: #060a1c; }
+.thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.thumb .n { position: absolute; top: 10px; left: 10px; font: 700 13px 'Space Grotesk', sans-serif; background: rgba(3,6,18,.8); color: var(--accent); padding: 3px 8px; border-radius: 6px; }
+.thumb .dur { position: absolute; bottom: 10px; right: 10px; font: 600 12px 'Inter', sans-serif; background: rgba(3,6,18,.85); padding: 3px 8px; border-radius: 6px; font-variant-numeric: tabular-nums; }
+.thumb .play { position: absolute; inset: 0; margin: auto; width: 56px; height: 56px; border-radius: 50%; display: grid; place-items: center; background: var(--accent); color: #04122a; font-size: 20px; opacity: 0; transition: opacity .15s; padding-left: 3px; }
+.card:hover .play, .thumb:focus-visible .play { opacity: 1; }
+.body { padding: 16px 18px 18px; display: flex; flex-direction: column; flex: 1; }
+.kick { margin: 0; font: 600 12px 'Inter', sans-serif; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); }
+h3 { margin: 4px 0 6px; font: 700 21px/1.2 'Space Grotesk', 'Inter', sans-serif; }
+h3 a { color: inherit; text-decoration: none; }
+.blurb { margin: 0 0 14px; color: var(--muted); font-size: 15px; flex: 1; }
+.links { margin: 0; display: flex; gap: 14px; align-items: center; flex-wrap: wrap; font-size: 14px; }
+.links a { color: var(--muted); text-decoration: none; }
+.links a:hover { color: var(--fg); text-decoration: underline; }
+.links a.btn { background: var(--accent); color: #04122a; font-weight: 600; padding: 7px 14px; border-radius: 999px; }
+.links a.btn:hover { text-decoration: none; filter: brightness(1.08); }
+a:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.about { margin-top: 64px; display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; color: var(--muted); font-size: 15px; }
+.about h4 { margin: 0 0 6px; color: var(--fg); font: 700 17px 'Space Grotesk', 'Inter', sans-serif; }
+.about p { margin: 0; }
+footer { margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--edge); color: var(--muted); font-size: 13px; }
+@media (max-width: 400px) { ol.grid { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="stars" aria-hidden="true"></div>
+<main>
+  <header class="hero">
+    <p class="eyebrow">Narrated animated shorts</p>
+    <h1>Space stories, <span>explained</span></h1>
+    <p class="lede">Short, narrated animations that walk through two great science fiction sagas, The Expanse and Arthur C. Clarke's Space Odyssey, one part at a time. Made for high schoolers, with captions on every short.</p>
+    <nav class="jump"><a class="primary" href="shorts/epstein-drive/">▶ Start with the Epstein Drive</a><a href="#expanse">The Expanse</a><a href="#odyssey">Space Odyssey</a></nav>
+  </header>
+
+  <section id="expanse" aria-labelledby="h-expanse">
+    <div class="sec-head"><h2 id="h-expanse">The Expanse</h2><p>14 shorts · about 43 minutes · watch in order</p></div>
+    <ol class="grid">
+<li class="card"><a class="thumb" href="shorts/epstein-drive/" aria-label="Play The Epstein Drive"><img src="shorts/epstein-drive/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">01</span><span class="dur">3:45</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Start here</p><h3><a href="shorts/epstein-drive/">The Epstein Drive</a></h3><p class="blurb">The fusion engine that opens the solar system, and what fast ships would do to travel, society and politics.</p>
+<p class="links"><a class="btn" href="shorts/epstein-drive/">▶ Play</a><a href="shorts/epstein-drive/epstein-drive.mp4" download>MP4 · 16 MB</a><a href="shorts/epstein-drive/epstein-drive.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/season-1/" aria-label="Play Leviathan Wakes"><img src="shorts/season-1/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">02</span><span class="dur">3:24</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Season One</p><h3><a href="shorts/season-1/">Leviathan Wakes</a></h3><p class="blurb">Holden&#x27;s crew, Detective Miller and Avasarala.</p>
+<p class="links"><a class="btn" href="shorts/season-1/">▶ Play</a><a href="shorts/season-1/season-1.mp4" download>MP4 · 15 MB</a><a href="shorts/season-1/season-1.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/season-2/" aria-label="Play Caliban&#x27;s War"><img src="shorts/season-2/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">03</span><span class="dur">3:23</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Season Two</p><h3><a href="shorts/season-2/">Caliban&#x27;s War</a></h3><p class="blurb">Miller and the crew, Bobbie, and Prax.</p>
+<p class="links"><a class="btn" href="shorts/season-2/">▶ Play</a><a href="shorts/season-2/season-2.mp4" download>MP4 · 14 MB</a><a href="shorts/season-2/season-2.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/season-3/" aria-label="Play Abaddon&#x27;s Gate"><img src="shorts/season-3/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">04</span><span class="dur">3:24</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Season Three</p><h3><a href="shorts/season-3/">Abaddon&#x27;s Gate</a></h3><p class="blurb">Avasarala and Bobbie, the Rocinante, and the Ring.</p>
+<p class="links"><a class="btn" href="shorts/season-3/">▶ Play</a><a href="shorts/season-3/season-3.mp4" download>MP4 · 15 MB</a><a href="shorts/season-3/season-3.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/season-4/" aria-label="Play Cibola Burn"><img src="shorts/season-4/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">05</span><span class="dur">3:30</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Season Four</p><h3><a href="shorts/season-4/">Cibola Burn</a></h3><p class="blurb">Holden, Basia and Elvi on the first new world.</p>
+<p class="links"><a class="btn" href="shorts/season-4/">▶ Play</a><a href="shorts/season-4/season-4.mp4" download>MP4 · 15 MB</a><a href="shorts/season-4/season-4.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/prologue/" aria-label="Play Before the Canterbury"><img src="shorts/prologue/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">06</span><span class="dur">2:16</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Flashback</p><h3><a href="shorts/prologue/">Before the Canterbury</a></h3><p class="blurb">Fred Johnson and Amos Burton, from two novellas.</p>
+<p class="links"><a class="btn" href="shorts/prologue/">▶ Play</a><a href="shorts/prologue/prologue.mp4" download>MP4 · 9 MB</a><a href="shorts/prologue/prologue.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/season-5/" aria-label="Play Nemesis Games"><img src="shorts/season-5/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">07</span><span class="dur">3:50</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Season Five</p><h3><a href="shorts/season-5/">Nemesis Games</a></h3><p class="blurb">Holden, Naomi, Amos and Alex, scattered across the system.</p>
+<p class="links"><a class="btn" href="shorts/season-5/">▶ Play</a><a href="shorts/season-5/season-5.mp4" download>MP4 · 16 MB</a><a href="shorts/season-5/season-5.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/season-6/" aria-label="Play Babylon&#x27;s Ashes"><img src="shorts/season-6/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">08</span><span class="dur">3:39</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Season Six</p><h3><a href="shorts/season-6/">Babylon&#x27;s Ashes</a></h3><p class="blurb">The Rocinante, Marco and Filip, Michio Pa, and the Ring.</p>
+<p class="links"><a class="btn" href="shorts/season-6/">▶ Play</a><a href="shorts/season-6/season-6.mp4" download>MP4 · 15 MB</a><a href="shorts/season-6/season-6.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/strange-dogs/" aria-label="Play Strange Dogs + The Vital Abyss"><img src="shorts/strange-dogs/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">09</span><span class="dur">2:13</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Bridge</p><h3><a href="shorts/strange-dogs/">Strange Dogs + The Vital Abyss</a></h3><p class="blurb">Cara on Laconia, and Cortazar&#x27;s story.</p>
+<p class="links"><a class="btn" href="shorts/strange-dogs/">▶ Play</a><a href="shorts/strange-dogs/strange-dogs.mp4" download>MP4 · 10 MB</a><a href="shorts/strange-dogs/strange-dogs.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/book-7/" aria-label="Play Persepolis Rising"><img src="shorts/book-7/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">10</span><span class="dur">3:12</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Book Seven</p><h3><a href="shorts/book-7/">Persepolis Rising</a></h3><p class="blurb">Medina, Drummer and the Rocinante.</p>
+<p class="links"><a class="btn" href="shorts/book-7/">▶ Play</a><a href="shorts/book-7/book-7.mp4" download>MP4 · 15 MB</a><a href="shorts/book-7/book-7.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/auberon/" aria-label="Play Auberon"><img src="shorts/auberon/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">11</span><span class="dur">1:43</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Bridge</p><h3><a href="shorts/auberon/">Auberon</a></h3><p class="blurb">Laconia&#x27;s governor and Erich.</p>
+<p class="links"><a class="btn" href="shorts/auberon/">▶ Play</a><a href="shorts/auberon/auberon.mp4" download>MP4 · 7 MB</a><a href="shorts/auberon/auberon.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/book-8/" aria-label="Play Tiamat&#x27;s Wrath"><img src="shorts/book-8/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">12</span><span class="dur">3:52</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Book Eight</p><h3><a href="shorts/book-8/">Tiamat&#x27;s Wrath</a></h3><p class="blurb">Elvi, Holden and Teresa, Bobbie and Alex, and Naomi.</p>
+<p class="links"><a class="btn" href="shorts/book-8/">▶ Play</a><a href="shorts/book-8/book-8.mp4" download>MP4 · 17 MB</a><a href="shorts/book-8/book-8.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/book-9/" aria-label="Play Leviathan Falls"><img src="shorts/book-9/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">13</span><span class="dur">3:43</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Book Nine</p><h3><a href="shorts/book-9/">Leviathan Falls</a></h3><p class="blurb">Tanaka, the Rocinante, Elvi and the Ring.</p>
+<p class="links"><a class="btn" href="shorts/book-9/">▶ Play</a><a href="shorts/book-9/book-9.mp4" download>MP4 · 17 MB</a><a href="shorts/book-9/book-9.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/coda/" aria-label="Play The Sins of Our Fathers"><img src="shorts/coda/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">14</span><span class="dur">1:33</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Coda</p><h3><a href="shorts/coda/">The Sins of Our Fathers</a></h3><p class="blurb">Filip, and a thousand years later.</p>
+<p class="links"><a class="btn" href="shorts/coda/">▶ Play</a><a href="shorts/coda/coda.mp4" download>MP4 · 6 MB</a><a href="shorts/coda/coda.srt" download>Captions</a></p></div></li>
+    </ol>
+  </section>
+
+  <section id="odyssey" aria-labelledby="h-odyssey">
+    <div class="sec-head"><h2 id="h-odyssey">The Space Odyssey</h2><p>3 shorts · about 12 minutes</p></div>
+    <ol class="grid">
+<li class="card"><a class="thumb" href="shorts/2001/" aria-label="Play 2001: A Space Odyssey"><img src="shorts/2001/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">01</span><span class="dur">4:12</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Part One · 1968</p><h3><a href="shorts/2001/">2001: A Space Odyssey</a></h3><p class="blurb">Four million years, three monoliths, one computer.</p>
+<p class="links"><a class="btn" href="shorts/2001/">▶ Play</a><a href="shorts/2001/2001.mp4" download>MP4 · 19 MB</a><a href="shorts/2001/2001.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/2010/" aria-label="Play 2010: The Year We Make Contact"><img src="shorts/2010/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">02</span><span class="dur">4:43</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Part Two · 1984</p><h3><a href="shorts/2010/">2010: The Year We Make Contact</a></h3><p class="blurb">Why HAL did it, and how Jupiter became a star.</p>
+<p class="links"><a class="btn" href="shorts/2010/">▶ Play</a><a href="shorts/2010/2010.mp4" download>MP4 · 21 MB</a><a href="shorts/2010/2010.srt" download>Captions</a></p></div></li>
+<li class="card"><a class="thumb" href="shorts/2061-3001/" aria-label="Play 2061 and 3001"><img src="shorts/2061-3001/poster.jpg" alt="" loading="lazy" width="640" height="360"><span class="n">03</span><span class="dur">3:54</span><span class="play">▶</span></a>
+<div class="body"><p class="kick">Part Three</p><h3><a href="shorts/2061-3001/">2061 and 3001</a></h3><p class="blurb">A diamond mountain, a man back from the dead, and the end of the monoliths.</p>
+<p class="links"><a class="btn" href="shorts/2061-3001/">▶ Play</a><a href="shorts/2061-3001/2061-3001.mp4" download>MP4 · 19 MB</a><a href="shorts/2061-3001/2061-3001.srt" download>Captions</a></p></div></li>
+    </ol>
+  </section>
+
+  <div class="about">
+    <div><h4>How to watch</h4><p>Press Play to open a short in its own player. Sound starts when you click, and captions highlight each word as it is spoken. Each short is also an MP4 that plays anywhere.</p></div>
+    <div><h4>Watch order</h4><p>The Expanse list runs from the Epstein Drive through the TV seasons and books, with the novellas placed right after the parts that introduce their characters. From Season Four on, the shorts follow the books.</p></div>
+    <div><h4>How they were made</h4><p>Narration by the Kokoro neural voice, visuals drawn frame by frame on a fixed solar-system map so planets keep the same place and size in every scene.</p></div>
+  </div>
+
+  <footer>A fan project for learning. The Expanse is by James S. A. Corey; 2001, 2010, 2061 and 3001 are by Arthur C. Clarke. These shorts are summaries and are not affiliated with the authors or studios.</footer>
+</main>
+</body>
+</html>
