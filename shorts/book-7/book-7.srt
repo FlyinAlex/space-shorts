@@ -19,20 +19,20 @@ led by Camina Drummer,
 runs the gates.
 
 6
-00:00:10,673 --> 00:00:12,753
-Holden and Naomi are getting ready to
+00:00:10,673 --> 00:00:12,628
+Holden and Naomi are getting ready
 
 7
-00:00:12,773 --> 00:00:15,853
-retire and hand the Rocinante to Bobbie.
+00:00:12,648 --> 00:00:15,853
+to retire and hand the Rocinante to Bobbie.
 
 8
-00:00:15,873 --> 00:00:17,953
-Then the hidden world of Laconia comes
+00:00:15,873 --> 00:00:16,853
+Then the hidden world
 
 9
-00:00:17,973 --> 00:00:19,278
-out of the dark.
+00:00:16,873 --> 00:00:19,278
+of Laconia comes out of the dark.
 
 10
 00:00:19,298 --> 00:00:21,928
@@ -51,12 +51,12 @@ Spoilers ahead!
 Story one: Medina.
 
 14
-00:00:29,241 --> 00:00:31,171
-Without warning, a ship comes through the
+00:00:29,241 --> 00:00:31,071
+Without warning, a ship comes through
 
 15
-00:00:31,191 --> 00:00:32,621
-Laconia gate.
+00:00:31,091 --> 00:00:32,621
+the Laconia gate.
 
 16
 00:00:32,641 --> 00:00:34,771
@@ -83,172 +83,172 @@ The station that controls the Ring falls
 in hours, without a real fight.
 
 22
-00:00:48,292 --> 00:00:51,197
-Duarte names Santiago Singh as the governor
+00:00:48,292 --> 00:00:52,467
+Duarte names Santiago Singh as the governor of Medina.
 
 23
-00:00:51,217 --> 00:00:52,467
-of Medina.
+00:00:52,492 --> 00:00:54,697
+Singh is a young Laconian officer
 
 24
-00:00:52,492 --> 00:00:54,847
-Singh is a young Laconian officer who
+00:00:54,717 --> 00:00:56,242
+who believes in order,
 
 25
-00:00:54,867 --> 00:00:56,242
-believes in order,
-
-26
 00:00:56,262 --> 00:00:58,337
 and he wants to rule fairly.
 
-27
+26
 00:00:58,402 --> 00:01:00,357
 But when a bomb nearly kills him,
 
-28
+27
 00:01:00,377 --> 00:01:01,932
 he turns hard.
 
-29
+28
 00:01:01,952 --> 00:01:05,867
 Curfews, censorship, and public prisons follow.
 
+29
+00:01:05,922 --> 00:01:07,477
+Every rule makes the people
+
 30
-00:01:05,922 --> 00:01:08,202
-Every rule makes the people of Medina
+00:01:07,497 --> 00:01:09,809
+of Medina hate Laconia more.
 
 31
-00:01:08,222 --> 00:01:09,809
-hate Laconia more.
-
-32
 00:01:10,556 --> 00:01:11,986
 Singh hunts the underground,
 
+32
+00:01:12,006 --> 00:01:15,761
+and he catches its most famous member: James Holden.
+
 33
-00:01:12,006 --> 00:01:14,286
-and he catches its most famous member:
+00:01:15,781 --> 00:01:18,411
+Duarte orders Holden sent to Laconia
 
 34
-00:01:14,306 --> 00:01:15,761
-James Holden.
+00:01:18,431 --> 00:01:19,706
+as a prisoner.
 
 35
-00:01:15,781 --> 00:01:18,636
-Duarte orders Holden sent to Laconia as
-
-36
-00:01:18,656 --> 00:01:19,706
-a prisoner.
-
-37
 00:01:19,871 --> 00:01:21,426
 Singh hopes it will prove he can
 
-38
+36
 00:01:21,446 --> 00:01:23,626
 keep Medina under control.
 
-39
+37
 00:01:23,646 --> 00:01:24,746
 It doesn't.
 
-40
+38
 00:01:24,846 --> 00:01:26,026
 And in Laconia,
 
-41
+39
 00:01:26,046 --> 00:01:27,656
 failure has a price.
 
-42
+40
 00:01:28,416 --> 00:01:30,571
 Story two: Camina Drummer,
 
-43
+41
 00:01:30,591 --> 00:01:32,991
 president of the Transport Union.
 
+42
+00:01:33,046 --> 00:01:34,751
+The Tempest goes through the Ring
+
+43
+00:01:34,771 --> 00:01:36,476
+into the solar system.
+
 44
-00:01:33,046 --> 00:01:34,976
-The Tempest goes through the Ring into
-
-45
-00:01:34,996 --> 00:01:36,476
-the solar system.
-
-46
 00:01:36,496 --> 00:01:39,256
 Earth, Mars, and the Union send everything
 
-47
+45
 00:01:39,276 --> 00:01:40,726
 they have against it.
 
-48
+46
 00:01:40,751 --> 00:01:43,606
 Even nuclear weapons barely scratch it.
 
-49
+47
 00:01:43,626 --> 00:01:45,756
 The combined fleet is wiped out.
 
-50
+48
 00:01:46,389 --> 00:01:47,644
 To save lives,
 
-51
+49
 00:01:47,664 --> 00:01:50,929
 Drummer surrenders, and Earth and Mars follow.
 
-52
+50
 00:01:50,949 --> 00:01:53,129
 Laconia lets her keep her job,
 
+51
+00:01:53,149 --> 00:01:54,254
+so long as she does
+
+52
+00:01:54,274 --> 00:01:55,629
+what she's told.
+
 53
-00:01:53,149 --> 00:01:54,704
-so long as she does what she's
-
-54
-00:01:54,724 --> 00:01:55,629
-told.
-
-55
 00:01:55,649 --> 00:01:57,979
 Her husband Saba is still free,
 
-56
+54
 00:01:57,999 --> 00:02:00,704
 and he leads the resistance on Medina.
 
-57
+55
 00:02:00,724 --> 00:02:02,804
 Drummer has to smile for the cameras
 
-58
+56
 00:02:02,824 --> 00:02:04,976
 while secretly hoping he wins.
 
-59
+57
 00:02:05,715 --> 00:02:08,295
 Story three: the Rocinante.
 
+58
+00:02:08,315 --> 00:02:09,895
+The crew is trapped on Medina
+
+59
+00:02:09,915 --> 00:02:10,770
+when it falls,
+
 60
-00:02:08,315 --> 00:02:10,045
-The crew is trapped on Medina when
+00:02:10,790 --> 00:02:13,240
+so they join Saba's resistance.
 
 61
-00:02:10,065 --> 00:02:13,240
-it falls, so they join Saba's resistance.
+00:02:13,360 --> 00:02:14,265
+They plan a raid
 
 62
-00:02:13,360 --> 00:02:15,565
-They plan a raid to steal Laconian
+00:02:14,285 --> 00:02:16,260
+to steal Laconian codes,
 
 63
-00:02:15,585 --> 00:02:18,855
-codes, using a staged bombing as cover.
+00:02:16,280 --> 00:02:18,855
+using a staged bombing as cover.
 
 64
 00:02:18,910 --> 00:02:19,915
@@ -263,82 +263,90 @@ but Holden is captured.
 Now the resistance has one goal:
 
 67
-00:02:24,160 --> 00:02:25,640
-get as many ships out through the
+00:02:24,160 --> 00:02:25,490
+get as many ships out through
 
 68
-00:02:25,660 --> 00:02:27,105
-gates as they can.
+00:02:25,510 --> 00:02:27,105
+the gates as they can.
 
 69
 00:02:27,761 --> 00:02:29,616
 The breakout begins.
 
 70
-00:02:29,636 --> 00:02:31,991
-Bobbie and her team capture a Laconian
+00:02:29,636 --> 00:02:31,291
+Bobbie and her team capture
 
 71
-00:02:32,011 --> 00:02:34,541
-warship, the Gathering Storm.
+00:02:31,311 --> 00:02:32,841
+a Laconian warship,
 
 72
-00:02:34,561 --> 00:02:36,566
-Clarissa uses the last of her old
+00:02:32,861 --> 00:02:34,541
+the Gathering Storm.
 
 73
-00:02:36,586 --> 00:02:39,291
-body modifications to stop an ambush,
+00:02:34,561 --> 00:02:35,966
+Clarissa uses the last
 
 74
-00:02:39,311 --> 00:02:40,766
-and it kills her.
+00:02:35,986 --> 00:02:38,266
+of her old body modifications to stop
 
 75
+00:02:38,286 --> 00:02:40,766
+an ambush, and it kills her.
+
+76
 00:02:40,786 --> 00:02:43,366
 The Rocinante and a small fleet escape
 
-76
-00:02:43,386 --> 00:02:45,166
-through the gates to a remote world
-
 77
-00:02:45,186 --> 00:02:48,528
-called Freehold, and the resistance lives on.
+00:02:43,386 --> 00:02:44,116
+through the gates
 
 78
+00:02:44,136 --> 00:02:46,551
+to a remote world called Freehold,
+
+79
+00:02:46,571 --> 00:02:48,528
+and the resistance lives on.
+
+80
 00:02:49,187 --> 00:02:51,642
 Book seven ends on Laconia.
 
-79
+81
 00:02:51,662 --> 00:02:54,787
 Singh is executed on Duarte's orders.
 
-80
+82
 00:02:54,912 --> 00:02:56,992
 Holden meets Duarte himself,
 
-81
-00:02:57,012 --> 00:02:59,342
-who plans to use the protomolecule to
-
-82
-00:02:59,362 --> 00:03:01,462
-rule humanity forever.
-
 83
-00:03:01,637 --> 00:03:03,817
-Holden warns him about whatever killed the
+00:02:57,012 --> 00:02:59,167
+who plans to use the protomolecule
 
 84
-00:03:03,837 --> 00:03:06,927
-gate builders, but Duarte isn't listening.
+00:02:59,187 --> 00:03:01,462
+to rule humanity forever.
 
 85
-00:03:06,947 --> 00:03:08,677
-Next up: book eight,
+00:03:01,637 --> 00:03:03,717
+Holden warns him about whatever killed
 
 86
-00:03:08,697 --> 00:03:10,072
-Tiamat's Wrath.
+00:03:03,737 --> 00:03:04,727
+the gate builders,
+
+87
+00:03:04,747 --> 00:03:06,927
+but Duarte isn't listening.
+
+88
+00:03:06,947 --> 00:03:10,072
+Next up: book eight, Tiamat's Wrath.
 

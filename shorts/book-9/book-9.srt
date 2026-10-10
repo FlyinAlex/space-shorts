@@ -19,12 +19,12 @@ changed by the protomolecule into something new.
 Teresa has fled with the Rocinante.
 
 6
-00:00:13,960 --> 00:00:16,315
-And the beings outside space are striking
+00:00:13,960 --> 00:00:15,690
+And the beings outside space
 
 7
-00:00:16,335 --> 00:00:17,190
-back.
+00:00:15,710 --> 00:00:17,190
+are striking back.
 
 8
 00:00:17,210 --> 00:00:19,640
@@ -55,32 +55,32 @@ Story one: Colonel Aliana Tanaka,
 Laconia's best hunter.
 
 15
-00:00:32,331 --> 00:00:34,311
-Her orders are to find Duarte and
+00:00:32,331 --> 00:00:34,186
+Her orders are to find Duarte
 
 16
-00:00:34,331 --> 00:00:35,636
-bring him home.
+00:00:34,206 --> 00:00:35,636
+and bring him home.
 
 17
-00:00:35,656 --> 00:00:37,686
-She learns he escaped Laconia in an
+00:00:35,656 --> 00:00:37,436
+She learns he escaped Laconia
 
 18
-00:00:37,706 --> 00:00:39,511
-ancient alien ship.
+00:00:37,456 --> 00:00:39,511
+in an ancient alien ship.
 
 19
 00:00:39,531 --> 00:00:40,411
 To find him,
 
 20
-00:00:40,431 --> 00:00:42,336
-she decides to find the one person
+00:00:40,431 --> 00:00:41,461
+she decides to find
 
 21
-00:00:42,356 --> 00:00:43,611
-he would reach for:
+00:00:41,481 --> 00:00:43,611
+the one person he would reach for:
 
 22
 00:00:43,631 --> 00:00:45,036
@@ -91,346 +91,330 @@ his daughter Teresa,
 who is now traveling with the Rocinante.
 
 24
-00:00:48,372 --> 00:00:51,252
-Tanaka follows the Rocinante from system to
+00:00:48,372 --> 00:00:52,297
+Tanaka follows the Rocinante from system to system.
 
 25
-00:00:51,272 --> 00:00:52,297
-system.
-
-26
 00:00:52,372 --> 00:00:55,102
 But something strange is happening to her.
 
+26
+00:00:55,122 --> 00:00:57,052
+Memories that aren't hers start drifting
+
 27
-00:00:55,122 --> 00:00:57,277
-Memories that aren't hers start drifting into
+00:00:57,072 --> 00:00:58,427
+into her mind.
 
 28
-00:00:57,297 --> 00:00:58,427
-her mind.
-
-29
 00:00:58,447 --> 00:00:59,642
 She fights them off,
 
-30
+29
 00:00:59,662 --> 00:01:01,092
 and keeps going.
 
+30
+00:01:01,112 --> 00:01:02,142
+The trail leads
+
 31
-00:01:01,112 --> 00:01:03,042
-The trail leads to the one place
+00:01:02,162 --> 00:01:04,142
+to the one place every gate connects
 
 32
-00:01:03,062 --> 00:01:04,742
-every gate connects to:
+00:01:04,162 --> 00:01:06,117
+to: the station at the center
 
 33
-00:01:04,762 --> 00:01:06,367
-the station at the center of the
+00:01:06,137 --> 00:01:06,979
+of the Ring.
 
 34
-00:01:06,387 --> 00:01:06,979
-Ring.
-
-35
 00:01:07,708 --> 00:01:10,263
 Story two: the Rocinante.
 
-36
+35
 00:01:10,283 --> 00:01:12,263
 Holden, Naomi, Alex,
 
+36
+00:01:12,283 --> 00:01:15,843
+Amos, and Teresa run the underground from Freehold.
+
 37
-00:01:12,283 --> 00:01:14,718
-Amos, and Teresa run the underground from
-
-38
-00:01:14,738 --> 00:01:15,843
-Freehold.
-
-39
 00:01:15,863 --> 00:01:18,843
 Laconia's Admiral Trejo offers peace,
 
-40
+38
 00:01:18,863 --> 00:01:21,668
 but only if Teresa is handed back.
 
-41
+39
 00:01:21,688 --> 00:01:24,668
 A resistance captain named Jillian Houston locks
 
-42
-00:01:24,688 --> 00:01:26,318
-the crew in their quarters and takes
+40
+00:01:24,688 --> 00:01:27,318
+the crew in their quarters and takes the deal.
 
-43
-00:01:26,338 --> 00:01:27,318
-the deal.
-
-44
+41
 00:01:27,338 --> 00:01:28,743
 The crew breaks free,
 
+42
+00:01:28,763 --> 00:01:31,143
+and the Gathering Storm sacrifices itself
+
+43
+00:01:31,163 --> 00:01:32,590
+to cover their escape.
+
+44
+00:01:33,161 --> 00:01:35,216
+Then a colony ship nearly vanishes
+
 45
-00:01:28,763 --> 00:01:31,293
-and the Gathering Storm sacrifices itself to
+00:01:35,236 --> 00:01:35,916
+in the gates,
 
 46
-00:01:31,313 --> 00:01:32,590
-cover their escape.
+00:01:35,936 --> 00:01:37,886
+and something new happens.
 
 47
-00:01:33,161 --> 00:01:35,303
-Then a colony ship nearly vanishes in
-
-48
-00:01:35,323 --> 00:01:37,886
-the gates, and something new happens.
-
-49
 00:01:37,976 --> 00:01:39,681
 All across human space,
 
-50
+48
 00:01:39,701 --> 00:01:42,456
 people start sharing memories and thoughts.
 
-51
+49
 00:01:42,476 --> 00:01:43,856
 It's Duarte.
 
+50
+00:01:43,876 --> 00:01:45,631
+His plan is to join all
+
+51
+00:01:45,651 --> 00:01:47,706
+of humanity into one mind,
+
 52
-00:01:43,876 --> 00:01:45,731
-His plan is to join all of
+00:01:47,726 --> 00:01:48,881
+strong enough to fight
 
 53
-00:01:45,751 --> 00:01:47,706
-humanity into one mind,
+00:01:48,901 --> 00:01:51,031
+the beings outside space.
 
 54
-00:01:47,726 --> 00:01:50,031
-strong enough to fight the beings outside
-
-55
-00:01:50,051 --> 00:01:51,031
-space.
-
-56
 00:01:51,051 --> 00:01:53,022
 And it's spreading like a virus.
 
-57
+55
 00:01:53,751 --> 00:01:56,556
 Story three: Elvi Okoye.
 
+56
+00:01:56,576 --> 00:01:57,631
+Her team goes back
+
+57
+00:01:57,651 --> 00:01:59,756
+to the giant diamond at Adro,
+
 58
-00:01:56,576 --> 00:01:58,331
-Her team goes back to the giant
-
-59
-00:01:58,351 --> 00:01:59,756
-diamond at Adro,
-
-60
 00:01:59,776 --> 00:02:01,506
 the gate builders' record.
 
-61
+59
 00:02:01,526 --> 00:02:02,836
 With help from Cara,
 
-62
+60
 00:02:02,856 --> 00:02:05,261
 the girl the strange dogs changed,
 
-63
+61
 00:02:05,281 --> 00:02:06,986
 they finally read it.
 
+62
+00:02:07,006 --> 00:02:09,036
+The builders were small sea creatures
+
+63
+00:02:09,056 --> 00:02:11,406
+who joined their minds into one.
+
 64
-00:02:07,006 --> 00:02:09,211
-The builders were small sea creatures who
-
-65
-00:02:09,231 --> 00:02:11,406
-joined their minds into one.
-
-66
 00:02:11,516 --> 00:02:12,846
 And even as one mind,
 
-67
+65
 00:02:12,866 --> 00:02:15,721
 the beings outside space destroyed them.
 
-68
+66
 00:02:16,412 --> 00:02:19,042
 That is the warning Elvi brings back.
 
+67
+00:02:19,062 --> 00:02:21,167
+Duarte is trying to turn humanity
+
+68
+00:02:21,187 --> 00:02:22,702
+into the gate builders,
+
 69
-00:02:19,062 --> 00:02:21,392
-Duarte is trying to turn humanity into
-
-70
-00:02:21,412 --> 00:02:22,702
-the gate builders,
-
-71
 00:02:22,722 --> 00:02:24,702
 and the gate builders lost.
 
+70
+00:02:24,722 --> 00:02:26,927
+Elvi's dives into the alien record
+
+71
+00:02:26,947 --> 00:02:28,377
+are dangerous for the people
+
 72
-00:02:24,722 --> 00:02:27,127
-Elvi's dives into the alien record are
+00:02:28,397 --> 00:02:29,647
+who make them.
 
 73
-00:02:27,147 --> 00:02:29,647
-dangerous for the people who make them.
+00:02:29,712 --> 00:02:32,892
+When the cost grows too high, she stops.
 
 74
-00:02:29,712 --> 00:02:31,667
-When the cost grows too high,
+00:02:32,912 --> 00:02:35,633
+Her answers point to the Ring Station, too.
 
 75
-00:02:31,687 --> 00:02:32,892
-she stops.
-
-76
-00:02:32,912 --> 00:02:35,002
-Her answers point to the Ring Station,
-
-77
-00:02:35,022 --> 00:02:35,633
-too.
-
-78
 00:02:36,352 --> 00:02:39,177
 Story four: the heart of the Ring.
 
-79
+76
 00:02:39,312 --> 00:02:40,762
 To get inside the station,
 
-80
+77
 00:02:40,782 --> 00:02:43,992
 Holden injects himself with live protomolecule,
 
+78
+00:02:44,012 --> 00:02:47,042
+and Miller's ghost returns to open the way.
+
+79
+00:02:47,062 --> 00:02:50,132
+Holden, Teresa, and Tanaka find Duarte
+
+80
+00:02:50,152 --> 00:02:51,377
+at the center.
+
 81
-00:02:44,012 --> 00:02:46,142
-and Miller's ghost returns to open the
-
-82
-00:02:46,162 --> 00:02:47,042
-way.
-
-83
-00:02:47,062 --> 00:02:50,232
-Holden, Teresa, and Tanaka find Duarte at
-
-84
-00:02:50,252 --> 00:02:51,377
-the center.
-
-85
 00:02:51,537 --> 00:02:53,842
 Teresa begs her father to stop.
 
-86
+82
 00:02:53,862 --> 00:02:54,842
 He won't.
 
-87
+83
 00:02:54,862 --> 00:02:56,042
 Tanaka kills him,
 
-88
+84
 00:02:56,062 --> 00:02:57,690
 and dies soon after.
 
-89
+85
 00:02:58,376 --> 00:02:59,556
 With Duarte gone,
 
-90
+86
 00:02:59,576 --> 00:03:02,756
 the beings outside space come for everyone.
 
-91
+87
 00:03:02,776 --> 00:03:05,181
 Holden takes Duarte's place in the station
 
-92
+88
 00:03:05,201 --> 00:03:06,731
 and holds them back.
 
-93
+89
 00:03:06,751 --> 00:03:08,726
 He learns the gates hurt the beings,
 
-94
+90
 00:03:08,746 --> 00:03:10,426
 which is why they fight.
 
-95
+91
 00:03:10,446 --> 00:03:12,251
 So he makes his choice.
 
-96
+92
 00:03:12,271 --> 00:03:14,476
 He refuses to force a single mind
 
+93
+00:03:14,496 --> 00:03:17,851
+on humanity, and he shuts down every gate.
+
+94
+00:03:17,871 --> 00:03:20,737
+The station, and Holden with it, is gone.
+
+95
+00:03:21,383 --> 00:03:22,413
+The series ends
+
+96
+00:03:22,433 --> 00:03:24,448
+with about thirteen hundred worlds,
+
 97
-00:03:14,496 --> 00:03:17,001
-on humanity, and he shuts down every
+00:03:24,468 --> 00:03:26,073
+cut off from each other.
 
 98
-00:03:17,021 --> 00:03:17,851
-gate.
+00:03:26,093 --> 00:03:28,873
+Naomi, Amos, and Teresa head home
 
 99
-00:03:17,871 --> 00:03:19,821
-The station, and Holden with it,
+00:03:28,893 --> 00:03:30,593
+to the solar system.
 
 100
-00:03:19,841 --> 00:03:20,737
-is gone.
+00:03:30,658 --> 00:03:32,163
+Humanity will have to find
 
 101
-00:03:21,383 --> 00:03:23,838
-The series ends with about thirteen hundred
+00:03:32,183 --> 00:03:34,558
+its own way between the stars.
 
 102
-00:03:23,858 --> 00:03:26,073
-worlds, cut off from each other.
+00:03:34,668 --> 00:03:35,023
+And on one
 
 103
-00:03:26,093 --> 00:03:28,973
-Naomi, Amos, and Teresa head home to
+00:03:35,043 --> 00:03:36,623
+of those cut off worlds,
 
 104
-00:03:28,993 --> 00:03:30,593
-the solar system.
+00:03:36,643 --> 00:03:39,048
+Filip Nagata is starting over.
 
 105
-00:03:30,658 --> 00:03:32,663
-Humanity will have to find its own
-
-106
-00:03:32,683 --> 00:03:34,558
-way between the stars.
-
-107
-00:03:34,668 --> 00:03:35,923
-And on one of those cut off
-
-108
-00:03:35,943 --> 00:03:39,048
-worlds, Filip Nagata is starting over.
-
-109
 00:03:39,068 --> 00:03:41,020
 Next up: his story.
 

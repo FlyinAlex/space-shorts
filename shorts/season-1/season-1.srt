@@ -1,162 +1,162 @@
 1
-00:00:02,051 --> 00:00:03,461
-Welcome to The Expanse,
+00:00:02,051 --> 00:00:04,636
+Welcome to The Expanse, season one.
 
 2
-00:00:03,481 --> 00:00:04,636
-season one.
-
-3
 00:00:04,656 --> 00:00:06,536
 It's the twenty-third century.
 
-4
+3
 00:00:06,556 --> 00:00:08,861
 Earth is crowded and powerful.
 
-5
+4
 00:00:08,881 --> 00:00:11,171
 Mars is a young military power,
 
-6
+5
 00:00:11,191 --> 00:00:14,116
 slowly turning its red deserts green.
 
-7
+6
 00:00:14,226 --> 00:00:16,281
 And Belters mine the asteroids,
 
-8
+7
 00:00:16,301 --> 00:00:18,231
 tired of being pushed around.
 
-9
+8
 00:00:18,251 --> 00:00:20,331
 Nobody trusts anybody.
 
-10
+9
 00:00:20,351 --> 00:00:22,256
 Three stories start far apart,
 
+10
+00:00:22,276 --> 00:00:24,201
+and by the end, they collide.
+
 11
-00:00:22,276 --> 00:00:23,026
-and by the end,
-
-12
-00:00:23,046 --> 00:00:24,201
-they collide.
-
-13
 00:00:24,221 --> 00:00:25,499
 Spoilers ahead!
 
-14
+12
 00:00:26,248 --> 00:00:28,333
 Story one: the Canterbury.
 
+13
+00:00:28,353 --> 00:00:29,833
+Jim Holden is an officer
+
+14
+00:00:29,853 --> 00:00:30,818
+on an ice hauler,
+
 15
-00:00:28,353 --> 00:00:30,083
-Jim Holden is an officer on an
+00:00:30,838 --> 00:00:32,718
+carrying water from Saturn's rings
 
 16
-00:00:30,103 --> 00:00:32,718
-ice hauler, carrying water from Saturn's rings
-
-17
 00:00:32,738 --> 00:00:34,993
 to thirsty stations in the Belt.
 
-18
+17
 00:00:35,013 --> 00:00:37,193
 Out here, water is life.
 
+18
+00:00:37,213 --> 00:00:38,703
+One day, the crew answers
+
 19
-00:00:37,213 --> 00:00:39,228
-One day, the crew answers a distress
+00:00:38,723 --> 00:00:39,553
+a distress call
 
 20
-00:00:39,248 --> 00:00:40,853
-call from a drifting ship called the
+00:00:39,573 --> 00:00:42,028
+from a drifting ship called the Scopuli.
 
 21
-00:00:40,873 --> 00:00:42,028
-Scopuli.
-
-22
 00:00:42,048 --> 00:00:43,303
 It's a trap.
 
-23
+22
 00:00:43,323 --> 00:00:45,403
 Mystery ships destroy the Canterbury,
 
+23
+00:00:45,423 --> 00:00:47,053
+and only five people escape
+
 24
-00:00:45,423 --> 00:00:47,481
-and only five people escape in a
+00:00:47,073 --> 00:00:48,078
+in a shuttle:
 
 25
-00:00:47,501 --> 00:00:49,553
-shuttle: Holden, Naomi,
+00:00:48,098 --> 00:00:50,248
+Holden, Naomi, Amos,
 
 26
-00:00:49,573 --> 00:00:51,554
-Amos, Alex, and Shed.
+00:00:50,268 --> 00:00:51,554
+Alex, and Shed.
 
 27
-00:00:52,281 --> 00:00:54,161
-Holden finds a Martian part on the
+00:00:52,281 --> 00:00:53,936
+Holden finds a Martian part
 
 28
-00:00:54,181 --> 00:00:56,236
-trap and blames Mars on an open
+00:00:53,956 --> 00:00:55,561
+on the trap and blames Mars
 
 29
-00:00:56,256 --> 00:00:58,911
-broadcast, and the Belt erupts.
+00:00:55,581 --> 00:00:57,186
+on an open broadcast,
 
 30
+00:00:57,206 --> 00:00:58,911
+and the Belt erupts.
+
+31
 00:00:58,931 --> 00:00:59,886
 A Martian warship,
 
-31
+32
 00:00:59,906 --> 00:01:01,606
 the Donnager, picks them up,
 
-32
-00:01:01,626 --> 00:01:03,881
-then gets destroyed by the same stealthy
-
 33
-00:01:03,901 --> 00:01:04,806
-ships.
+00:01:01,626 --> 00:01:02,731
+then gets destroyed
 
 34
-00:01:04,826 --> 00:01:06,806
-The crew escapes in a small Martian
+00:01:02,751 --> 00:01:04,806
+by the same stealthy ships.
 
 35
-00:01:06,826 --> 00:01:08,081
-ship, the Tachi,
+00:01:04,826 --> 00:01:05,706
+The crew escapes
 
 36
-00:01:08,101 --> 00:01:10,456
-and renames it the Rocinante.
+00:01:05,726 --> 00:01:07,106
+in a small Martian ship,
 
 37
+00:01:07,126 --> 00:01:10,456
+the Tachi, and renames it the Rocinante.
+
+38
 00:01:10,476 --> 00:01:11,981
 At Tycho Station,
 
-38
+39
 00:01:12,001 --> 00:01:14,741
 Fred Johnson of the Outer Planets Alliance,
 
-39
-00:01:14,761 --> 00:01:17,631
-the OPA, helps them start hunting for
-
 40
-00:01:17,651 --> 00:01:18,520
-answers.
+00:01:14,761 --> 00:01:18,520
+the OPA, helps them start hunting for answers.
 
 41
 00:01:19,269 --> 00:01:21,294
@@ -167,242 +167,246 @@ Story two: Ceres.
 Detective Joe Miller is a Belter cop
 
 43
-00:01:23,389 --> 00:01:24,869
-with a battered hat and a side
+00:01:23,389 --> 00:01:24,219
+with a battered hat
 
 44
-00:01:24,889 --> 00:01:26,819
-job: find Julie Mao,
+00:01:24,239 --> 00:01:25,644
+and a side job:
 
 45
-00:01:26,839 --> 00:01:28,669
-the runaway daughter of a rich Earth
+00:01:25,664 --> 00:01:26,819
+find Julie Mao,
 
 46
-00:01:28,689 --> 00:01:29,719
-family.
+00:01:26,839 --> 00:01:27,869
+the runaway daughter
 
 47
+00:01:27,889 --> 00:01:29,719
+of a rich Earth family.
+
+48
 00:01:29,739 --> 00:01:31,094
 Ceres is crowded,
 
-48
+49
 00:01:31,114 --> 00:01:32,339
 thirsty, and tense,
 
-49
+50
 00:01:32,359 --> 00:01:34,034
 and Miller has seen it all.
 
-50
+51
 00:01:34,074 --> 00:01:35,424
 But the deeper he digs,
 
-51
+52
 00:01:35,444 --> 00:01:37,274
 the stranger it gets.
 
-52
+53
 00:01:37,294 --> 00:01:39,049
 Julie was on the Scopuli,
 
-53
-00:01:39,069 --> 00:01:40,624
-the same ship that lured in the
-
 54
-00:01:40,644 --> 00:01:41,874
-Canterbury.
+00:01:39,069 --> 00:01:40,424
+the same ship that lured
 
 55
+00:01:40,444 --> 00:01:41,874
+in the Canterbury.
+
+56
 00:01:41,894 --> 00:01:43,224
 Miller won't drop the case,
 
-56
+57
 00:01:43,244 --> 00:01:44,884
 so his boss fires him.
 
-57
-00:01:45,589 --> 00:01:48,624
+58
+00:01:45,589 --> 00:01:48,058
 Miller follows Julie's trail to Eros,
 
-58
-00:01:48,644 --> 00:01:50,249
-a station in the Belt that's home
-
 59
-00:01:50,269 --> 00:01:52,224
-to about a hundred thousand people,
+00:01:48,078 --> 00:01:50,134
+a busy station in the Belt,
 
 60
-00:01:52,244 --> 00:01:54,874
+00:01:50,154 --> 00:01:52,784
 and runs straight into Holden's crew.
 
 61
-00:01:54,894 --> 00:01:56,774
-The cynic and the idealist make an
+00:01:52,804 --> 00:01:54,509
+The cynic and the idealist make
 
 62
-00:01:56,794 --> 00:01:57,999
-odd pair.
+00:01:54,529 --> 00:01:55,909
+an odd pair.
 
 63
-00:01:58,019 --> 00:01:59,544
+00:01:55,929 --> 00:01:57,539
 Together they find Julie,
 
 64
-00:01:59,564 --> 00:02:00,894
+00:01:57,559 --> 00:01:58,914
 but too late.
 
 65
-00:02:00,914 --> 00:02:03,294
-She was infected by something alien,
+00:01:58,934 --> 00:02:03,209
+She was infected by something alien, the protomolecule.
 
 66
-00:02:03,314 --> 00:02:05,139
-the protomolecule.
-
-67
-00:02:05,249 --> 00:02:06,714
+00:02:03,319 --> 00:02:04,759
 And the company that found it,
 
+67
+00:02:04,779 --> 00:02:06,934
+Protogen, is about to test it
+
 68
-00:02:06,734 --> 00:02:09,139
-Protogen, is about to test it on
+00:02:06,954 --> 00:02:09,117
+on everyone aboard Eros.
 
 69
-00:02:09,159 --> 00:02:11,059
-everyone aboard Eros.
-
-70
-00:02:11,811 --> 00:02:13,841
+00:02:09,879 --> 00:02:11,909
 Story three: Earth.
 
-71
-00:02:13,861 --> 00:02:16,591
+70
+00:02:11,929 --> 00:02:14,659
 Chrisjen Avasarala is a top United Nations
 
-72
-00:02:16,611 --> 00:02:19,886
+71
+00:02:14,679 --> 00:02:17,954
 official with sharp words and sharper instincts.
 
-73
-00:02:19,996 --> 00:02:21,351
+72
+00:02:18,064 --> 00:02:19,419
 She'll work with anyone,
 
-74
-00:02:21,371 --> 00:02:22,401
+73
+00:02:19,439 --> 00:02:20,469
 swear at anyone,
 
-75
-00:02:22,421 --> 00:02:25,151
+74
+00:02:20,489 --> 00:02:23,219
 and she's always thinking three moves ahead.
 
+75
+00:02:23,239 --> 00:02:25,044
+While everyone else blames Mars
+
 76
-00:02:25,171 --> 00:02:27,251
-While everyone else blames Mars or the
+00:02:25,064 --> 00:02:25,919
+or the Belt,
 
 77
-00:02:27,271 --> 00:02:29,726
-Belt, she asks a better question:
+00:02:25,939 --> 00:02:27,794
+she asks a better question:
 
 78
-00:02:29,746 --> 00:02:31,976
+00:02:27,814 --> 00:02:30,044
 who actually gains from a war?
 
 79
-00:02:31,996 --> 00:02:33,701
-She reaches out to Mars through an
+00:02:30,064 --> 00:02:31,669
+She reaches out to Mars through
 
 80
-00:02:33,721 --> 00:02:36,493
-old friend, and the conspiracy pushes back.
+00:02:31,689 --> 00:02:32,544
+an old friend,
 
 81
-00:02:37,247 --> 00:02:38,477
-Following the money,
+00:02:32,564 --> 00:02:34,561
+and the conspiracy pushes back.
 
 82
-00:02:38,497 --> 00:02:40,802
-Avasarala finds that the stealth ships were
+00:02:35,315 --> 00:02:36,545
+Following the money,
 
 83
-00:02:40,822 --> 00:02:43,227
-built in Earth's own shipyards for private
+00:02:36,565 --> 00:02:38,695
+Avasarala finds that the stealth ships
 
 84
-00:02:43,247 --> 00:02:44,602
-contractors.
+00:02:38,715 --> 00:02:40,745
+were built in Earth's own shipyards
 
 85
-00:02:44,622 --> 00:02:46,427
-The attacks on the Canterbury and the
+00:02:40,765 --> 00:02:42,670
+for private contractors.
 
 86
-00:02:46,447 --> 00:02:48,827
-Donnager were designed to make Earth,
+00:02:42,690 --> 00:02:44,270
+The attacks on the Canterbury
 
 87
-00:02:48,847 --> 00:02:51,377
-Mars, and the Belt blame each other.
+00:02:44,290 --> 00:02:45,770
+and the Donnager were designed
 
 88
-00:02:51,397 --> 00:02:53,977
-The trail points to Jules-Pierre Mao,
+00:02:45,790 --> 00:02:46,895
+to make Earth,
 
 89
-00:02:53,997 --> 00:02:56,677
-Julie's father, and to her own boss,
+00:02:46,915 --> 00:02:49,445
+Mars, and the Belt blame each other.
 
 90
-00:02:56,697 --> 00:02:58,402
-Sadavir Errinwright.
+00:02:49,465 --> 00:02:52,045
+The trail points to Jules-Pierre Mao,
 
 91
-00:02:58,422 --> 00:03:00,467
-Someone on Earth wants this war.
+00:02:52,065 --> 00:02:56,470
+Julie's father, and to her own boss, Sadavir Errinwright.
 
 92
-00:03:01,204 --> 00:03:02,184
-In the finale,
+00:02:56,490 --> 00:02:58,535
+Someone on Earth wants this war.
 
 93
-00:03:02,204 --> 00:03:04,694
-Eros falls to the protomolecule,
+00:02:59,272 --> 00:03:00,252
+In the finale,
 
 94
-00:03:04,714 --> 00:03:06,419
-and Holden and Miller fight their way
+00:03:00,272 --> 00:03:02,762
+Eros falls to the protomolecule,
 
 95
-00:03:06,439 --> 00:03:08,489
-back to the Rocinante.
+00:03:02,782 --> 00:03:04,087
+and Holden and Miller fight
 
 96
-00:03:08,554 --> 00:03:10,469
-The crew has become a family,
+00:03:04,107 --> 00:03:06,557
+their way back to the Rocinante.
 
 97
-00:03:10,489 --> 00:03:11,994
-Miller has a new purpose,
+00:03:06,622 --> 00:03:08,537
+The crew has become a family,
 
 98
-00:03:12,014 --> 00:03:14,819
-and Avasarala knows who her enemies are.
+00:03:08,557 --> 00:03:10,062
+Miller has a new purpose,
 
 99
-00:03:14,839 --> 00:03:17,094
-Three stories, one conspiracy,
+00:03:10,082 --> 00:03:12,887
+and Avasarala knows who her enemies are.
 
 100
-00:03:17,114 --> 00:03:18,894
-and a solar system that will never
+00:03:12,907 --> 00:03:15,162
+Three stories, one conspiracy,
 
 101
-00:03:18,914 --> 00:03:20,269
-be the same.
+00:03:15,182 --> 00:03:16,962
+and a solar system that will never
 
 102
-00:03:20,289 --> 00:03:22,320
+00:03:16,982 --> 00:03:18,337
+be the same.
+
+103
+00:03:18,357 --> 00:03:20,388
 Next up: season two.
 

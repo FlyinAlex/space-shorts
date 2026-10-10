@@ -31,12 +31,12 @@ And Elvi Okoye is sent to study
 the enemy that killed the gate builders.
 
 9
-00:00:20,300 --> 00:00:22,680
-Four stories, and a war with something
+00:00:20,300 --> 00:00:22,055
+Four stories, and a war
 
 10
-00:00:22,700 --> 00:00:24,755
-far older than Laconia.
+00:00:22,075 --> 00:00:24,755
+with something far older than Laconia.
 
 11
 00:00:24,775 --> 00:00:26,075
@@ -51,36 +51,36 @@ Story one: Elvi Okoye,
 the scientist from Ilus.
 
 14
-00:00:31,399 --> 00:00:33,204
-Laconia puts her in charge of a
+00:00:31,399 --> 00:00:32,979
+Laconia puts her in charge
 
 15
-00:00:33,224 --> 00:00:35,504
-science mission, with her husband Fayez at
+00:00:32,999 --> 00:00:34,154
+of a science mission,
 
 16
-00:00:35,524 --> 00:00:36,704
-her side.
+00:00:34,174 --> 00:00:36,704
+with her husband Fayez at her side.
 
 17
 00:00:36,724 --> 00:00:39,604
 They visit dead systems beyond the gates.
 
 18
-00:00:39,624 --> 00:00:41,729
-In one, they find a planet sized
+00:00:39,624 --> 00:00:40,679
+In one, they find
 
 19
-00:00:41,749 --> 00:00:43,379
-diamond that turns out to be a
+00:00:40,699 --> 00:00:43,104
+a planet sized diamond that turns out
 
 20
-00:00:43,399 --> 00:00:46,129
-library, a record left by the gate
+00:00:43,124 --> 00:00:44,779
+to be a library,
 
 21
-00:00:46,149 --> 00:00:47,104
-builders.
+00:00:44,799 --> 00:00:47,104
+a record left by the gate builders.
 
 22
 00:00:47,124 --> 00:00:48,889
@@ -103,12 +103,12 @@ Duarte wants to fight them.
 At a system called Tecoma,
 
 27
-00:00:57,870 --> 00:01:00,850
-his scientists fire an antimatter weapon into
+00:00:57,870 --> 00:01:00,450
+his scientists fire an antimatter weapon
 
 28
-00:01:00,870 --> 00:01:02,475
-a neutron star.
+00:01:00,470 --> 00:01:02,475
+into a neutron star.
 
 29
 00:01:02,495 --> 00:01:03,865
@@ -143,24 +143,24 @@ Story two: Holden and Teresa.
 Holden is kept in Duarte's palace,
 
 37
-00:01:18,643 --> 00:01:20,048
-a prisoner who is allowed to walk
+00:01:18,643 --> 00:01:21,048
+a prisoner who is allowed to walk the halls.
 
 38
-00:01:20,068 --> 00:01:21,048
-the halls.
-
-39
 00:01:21,068 --> 00:01:23,098
 He sees Duarte change.
 
+39
+00:01:23,118 --> 00:01:24,898
+The protomolecule in his body
+
 40
-00:01:23,118 --> 00:01:25,298
-The protomolecule in his body has left
+00:01:24,918 --> 00:01:25,898
+has left him lost
 
 41
-00:01:25,318 --> 00:01:27,323
-him lost in his own mind.
+00:01:25,918 --> 00:01:27,323
+in his own mind.
 
 42
 00:01:27,343 --> 00:01:29,673
@@ -187,16 +187,16 @@ When Cortazar goes too far,
 Duarte wakes up and kills him.
 
 48
-00:01:40,457 --> 00:01:42,287
-Teresa has a secret friend in the
+00:01:40,457 --> 00:01:42,037
+Teresa has a secret friend
 
 49
-00:01:42,307 --> 00:01:44,687
-woods, a scarred man who calls himself
+00:01:42,057 --> 00:01:43,062
+in the woods,
 
 50
-00:01:44,707 --> 00:01:45,782
-Timothy.
+00:01:43,082 --> 00:01:45,782
+a scarred man who calls himself Timothy.
 
 51
 00:01:45,832 --> 00:01:47,412
@@ -215,164 +215,164 @@ waiting for a chance to free Holden.
 Laconian guards shoot him dead.
 
 55
-00:01:55,037 --> 00:01:56,667
-But his body is taken by the
+00:01:55,037 --> 00:01:56,392
+But his body is taken
 
 56
-00:01:56,687 --> 00:02:00,067
-strange dogs, the same alien machines from
+00:01:56,412 --> 00:01:58,117
+by the strange dogs,
 
 57
-00:02:00,087 --> 00:02:01,867
-Laconia's forests.
+00:01:58,137 --> 00:02:01,867
+the same alien machines from Laconia's forests.
 
 58
-00:02:01,887 --> 00:02:03,342
-They bring Amos back,
+00:02:01,887 --> 00:02:04,309
+They bring Amos back, changed.
 
 59
-00:02:03,362 --> 00:02:04,309
-changed.
-
-60
 00:02:05,019 --> 00:02:07,949
 Story three: Bobbie and Alex.
 
-61
+60
 00:02:07,969 --> 00:02:11,699
 Flying the captured Laconian warship Gathering Storm,
 
-62
+61
 00:02:11,719 --> 00:02:15,344
 they raid Laconian supply lines near Jupiter.
 
-63
+62
 00:02:15,459 --> 00:02:17,289
 In one raid they take a cargo
 
-64
+63
 00:02:17,309 --> 00:02:19,189
 of antimatter weapons.
 
-65
+64
 00:02:19,209 --> 00:02:21,039
 Now they have something that might hurt
 
-66
+65
 00:02:21,059 --> 00:02:22,689
 the Heart of the Tempest,
 
-67
+66
 00:02:22,709 --> 00:02:25,340
 the warship that conquered the solar system.
 
+67
+00:02:26,150 --> 00:02:28,255
+Alex draws the Tempest's attention
+
 68
-00:02:26,150 --> 00:02:28,905
-Alex draws the Tempest's attention while Bobbie
+00:02:28,275 --> 00:02:30,950
+while Bobbie flies in with the bomb.
 
 69
-00:02:28,925 --> 00:02:30,950
-flies in with the bomb.
+00:02:31,085 --> 00:02:32,240
+At the last moment she
 
 70
-00:02:31,085 --> 00:02:32,590
-At the last moment she has to
+00:02:32,260 --> 00:02:33,965
+has to leave the shuttle and throw
 
 71
-00:02:32,610 --> 00:02:34,465
-leave the shuttle and throw the bomb
+00:02:33,985 --> 00:02:35,600
+the bomb by hand,
 
 72
-00:02:34,485 --> 00:02:36,550
-by hand, and she knows she won't
+00:02:35,620 --> 00:02:37,575
+and she knows she won't get out.
 
 73
-00:02:36,570 --> 00:02:37,575
-get out.
-
-74
 00:02:37,595 --> 00:02:39,175
 The Tempest is destroyed,
 
-75
+74
 00:02:39,195 --> 00:02:41,070
 and Bobbie dies with it.
 
-76
+75
 00:02:41,175 --> 00:02:42,930
 Across the solar system,
 
+76
+00:02:42,950 --> 00:02:44,255
+people who had given up start
+
 77
-00:02:42,950 --> 00:02:44,405
-people who had given up start to
+00:02:44,275 --> 00:02:45,358
+to fight back.
 
 78
-00:02:44,425 --> 00:02:45,358
-fight back.
-
-79
 00:02:46,088 --> 00:02:48,443
 Story four: Naomi.
 
-80
+79
 00:02:48,463 --> 00:02:50,518
 She leads the resistance from hiding,
 
-81
+80
 00:02:50,538 --> 00:02:52,463
 moving from ship to ship.
 
-82
+81
 00:02:52,588 --> 00:02:54,648
 She makes her way to Auberon,
 
+82
+00:02:54,668 --> 00:02:56,298
+one of the richest worlds beyond
+
 83
-00:02:54,668 --> 00:02:56,423
-one of the richest worlds beyond the
+00:02:56,318 --> 00:02:59,283
+the gates, and takes over its underground.
 
 84
-00:02:56,443 --> 00:02:59,283
-gates, and takes over its underground.
-
-85
 00:02:59,303 --> 00:03:01,508
 From there, she starts calling in help
 
-86
+85
 00:03:01,528 --> 00:03:04,695
 from every colony that Laconia has squeezed.
 
+86
+00:03:05,416 --> 00:03:07,396
+Naomi gathers hundreds of ships
+
 87
-00:03:05,416 --> 00:03:07,821
-Naomi gathers hundreds of ships for one
+00:03:07,416 --> 00:03:09,441
+for one surprise strike.
 
 88
-00:03:07,841 --> 00:03:09,441
-surprise strike.
-
-89
 00:03:09,551 --> 00:03:11,681
 They come through the Laconia gate together
 
-90
+89
 00:03:11,701 --> 00:03:14,306
 and destroy the alien platforms in orbit
 
-91
+90
 00:03:14,326 --> 00:03:16,756
 that build Laconia's warships.
 
-92
+91
 00:03:16,776 --> 00:03:17,971
 On the ground,
 
+92
+00:03:17,991 --> 00:03:20,571
+Teresa uses Amos's beacon to call
+
 93
-00:03:17,991 --> 00:03:20,691
-Teresa uses Amos's beacon to call for
+00:03:20,591 --> 00:03:21,816
+for a rescue,
 
 94
-00:03:20,711 --> 00:03:23,021
-a rescue, and she brings Holden out
+00:03:21,836 --> 00:03:23,021
+and she brings Holden out
 
 95
 00:03:23,041 --> 00:03:24,516
@@ -387,12 +387,12 @@ The crew is together again,
 all but Bobbie.
 
 98
-00:03:28,256 --> 00:03:30,636
-Book eight ends with Laconia broken but
+00:03:28,256 --> 00:03:30,486
+Book eight ends with Laconia broken
 
 99
-00:03:30,656 --> 00:03:31,981
-not beaten.
+00:03:30,506 --> 00:03:31,981
+but not beaten.
 
 100
 00:03:32,131 --> 00:03:34,461
@@ -411,18 +411,18 @@ Duarte is gone,
 changed into something no one understands.
 
 104
-00:03:41,181 --> 00:03:43,511
-And the beings outside space are waking
+00:03:41,181 --> 00:03:42,936
+And the beings outside space
 
 105
-00:03:43,531 --> 00:03:46,911
-up, while humanity is still fighting itself.
+00:03:42,956 --> 00:03:44,011
+are waking up,
 
 106
-00:03:46,931 --> 00:03:48,611
-Next up: book nine,
+00:03:44,031 --> 00:03:46,911
+while humanity is still fighting itself.
 
 107
-00:03:48,631 --> 00:03:50,159
-Leviathan Falls.
+00:03:46,931 --> 00:03:50,159
+Next up: book nine, Leviathan Falls.
 

@@ -11,12 +11,12 @@ First, a war between Earth and Mars
 that someone wants very badly.
 
 4
-00:00:09,772 --> 00:00:12,277
-Then, a giant alien Ring appears at
+00:00:09,772 --> 00:00:12,202
+Then, a giant alien Ring appears
 
 5
-00:00:12,297 --> 00:00:14,102
-the edge of the solar system,
+00:00:12,222 --> 00:00:14,102
+at the edge of the solar system,
 
 6
 00:00:14,122 --> 00:00:16,327
@@ -27,12 +27,12 @@ and everyone races to reach it.
 Old enemies have to become allies,
 
 8
-00:00:18,702 --> 00:00:20,657
-and the Rocinante crew is right in
+00:00:18,702 --> 00:00:20,582
+and the Rocinante crew is right
 
 9
-00:00:20,677 --> 00:00:21,707
-the middle.
+00:00:20,602 --> 00:00:21,707
+in the middle.
 
 10
 00:00:21,727 --> 00:00:24,607
@@ -47,28 +47,28 @@ Spoilers ahead!
 Story one: Avasarala and Bobbie.
 
 13
-00:00:29,473 --> 00:00:31,828
-They escape from Jules-Pierre Mao's yacht with
+00:00:29,473 --> 00:00:31,628
+They escape from Jules-Pierre Mao's yacht
 
 14
-00:00:31,848 --> 00:00:34,568
-proof that Errinwright is behind the war.
+00:00:31,648 --> 00:00:34,568
+with proof that Errinwright is behind the war.
 
 15
-00:00:34,588 --> 00:00:36,568
-He has convinced Earth's leaders to strike
+00:00:34,588 --> 00:00:36,068
+He has convinced Earth's leaders
 
 16
-00:00:36,588 --> 00:00:37,988
-Mars first.
+00:00:36,088 --> 00:00:37,988
+to strike Mars first.
 
 17
-00:00:38,053 --> 00:00:39,058
-But the two of them are cut
+00:00:38,053 --> 00:00:38,683
+But the two of them
 
 18
-00:00:39,078 --> 00:00:40,758
-off from Earth and hunted,
+00:00:38,703 --> 00:00:40,758
+are cut off from Earth and hunted,
 
 19
 00:00:40,778 --> 00:00:42,333
@@ -99,24 +99,24 @@ alive long enough to find all three.
 They find the Rocinante,
 
 26
-00:00:55,566 --> 00:00:57,271
-and help on Earth comes from Anna
+00:00:55,566 --> 00:00:56,746
+and help on Earth comes
 
 27
-00:00:57,291 --> 00:01:00,431
-Volovodov, a pastor who finds Errinwright's own
+00:00:56,766 --> 00:00:58,109
+from Anna Volovodov,
 
 28
-00:01:00,451 --> 00:01:01,756
-recordings.
+00:00:58,129 --> 00:01:01,756
+a pastor who finds Errinwright's own recordings.
 
 29
-00:01:01,776 --> 00:01:04,906
-Secretary-General Sorrento-Gillis hears it straight from his
+00:01:01,776 --> 00:01:04,606
+Secretary-General Sorrento-Gillis hears it straight
 
 30
-00:01:04,926 --> 00:01:06,781
-own advisor's mouth.
+00:01:04,626 --> 00:01:06,781
+from his own advisor's mouth.
 
 31
 00:01:06,801 --> 00:01:08,181
@@ -151,24 +151,24 @@ she offers peace instead of revenge.
 Story two: the Rocinante.
 
 39
-00:01:23,215 --> 00:01:25,070
-Prax still believes his daughter Mei is
+00:01:23,215 --> 00:01:24,945
+Prax still believes his daughter Mei
 
 40
-00:01:25,090 --> 00:01:26,870
-alive, and he's right.
+00:01:24,965 --> 00:01:26,870
+is alive, and he's right.
 
 41
 00:01:26,890 --> 00:01:28,645
 The trail leads to Io,
 
 42
-00:01:28,665 --> 00:01:30,770
-where Jules-Pierre Mao built a lab to
+00:01:28,665 --> 00:01:30,645
+where Jules-Pierre Mao built a lab
 
 43
-00:01:30,790 --> 00:01:33,445
-turn the protomolecule into a weapon.
+00:01:30,665 --> 00:01:33,445
+to turn the protomolecule into a weapon.
 
 44
 00:01:33,465 --> 00:01:35,900
@@ -191,12 +191,12 @@ Prax finally holds his daughter again.
 Doctor Strickland's experiments end for good.
 
 49
-00:01:45,422 --> 00:01:47,552
-But the lab has already launched hybrid
+00:01:45,422 --> 00:01:46,052
+But the lab
 
 50
-00:01:47,572 --> 00:01:49,152
-pods toward Mars,
+00:01:46,072 --> 00:01:49,152
+has already launched hybrid pods toward Mars,
 
 51
 00:01:49,172 --> 00:01:51,327
@@ -211,12 +211,12 @@ They're stealthy and nearly impossible to track.
 The crew switches the pods' transponders back
 
 54
-00:01:57,072 --> 00:01:59,287
-on, so Mars and the Belt can
+00:01:57,072 --> 00:01:58,512
+on, so Mars
 
 55
-00:01:59,307 --> 00:02:00,637
-shoot them down.
+00:01:58,532 --> 00:02:00,637
+and the Belt can shoot them down.
 
 56
 00:02:00,657 --> 00:02:03,012
@@ -259,96 +259,96 @@ It just sits there,
 silent, and that's what makes it scary.
 
 66
-00:02:18,929 --> 00:02:20,969
-Earth, Mars, and the Belt all send
+00:02:18,929 --> 00:02:21,869
+Earth, Mars, and the Belt all send ships.
 
 67
-00:02:20,989 --> 00:02:21,869
-ships.
+00:02:21,889 --> 00:02:23,319
+Drummer and Ashford command
 
 68
-00:02:21,889 --> 00:02:24,269
-Drummer and Ashford command the Belt's giant
+00:02:23,339 --> 00:02:25,969
+the Belt's giant ship, the Behemoth.
 
 69
-00:02:24,289 --> 00:02:25,969
-ship, the Behemoth.
-
-70
 00:02:25,989 --> 00:02:27,594
 Anna joins Earth's fleet,
 
-71
+70
 00:02:27,614 --> 00:02:28,744
 and Clarissa Mao,
 
-72
+71
 00:02:28,764 --> 00:02:31,419
 Julie's sister, sneaks along with a plan
 
-73
+72
 00:02:31,439 --> 00:02:33,066
 for revenge on Holden.
 
-74
+73
 00:02:33,754 --> 00:02:35,634
 Through the Ring is a strange station
 
-75
+74
 00:02:35,654 --> 00:02:37,084
 with a speed limit.
 
-76
+75
 00:02:37,104 --> 00:02:39,134
 It treats every ship as a threat,
 
-77
+76
 00:02:39,154 --> 00:02:41,359
 and anything that moves too fast gets
 
-78
+77
 00:02:41,379 --> 00:02:43,059
 frozen in place.
 
-79
+78
 00:02:43,079 --> 00:02:45,109
 Ashford wants to destroy the station,
 
-80
+79
 00:02:45,129 --> 00:02:48,034
 but Holden, guided by a ghostly Miller,
 
-81
+80
 00:02:48,054 --> 00:02:50,834
 gets every ship to power down instead.
 
-82
+81
 00:02:50,854 --> 00:02:53,574
 Even Clarissa, who came to ruin Holden,
 
-83
+82
 00:02:53,594 --> 00:02:55,824
 flips the switch that saves them.
 
-84
+83
 00:02:55,844 --> 00:02:57,124
 Then, all around them,
 
-85
+84
 00:02:57,144 --> 00:02:58,327
 new gates open.
 
+85
+00:02:59,069 --> 00:03:00,474
+Season three ends
+
 86
-00:02:59,069 --> 00:03:01,524
-Season three ends with the gates wide
+00:03:00,494 --> 00:03:02,399
+with the gates wide open:
 
 87
-00:03:01,544 --> 00:03:04,249
-open: more than a thousand doorways to
+00:03:02,419 --> 00:03:04,099
+more than a thousand doorways
 
 88
-00:03:04,269 --> 00:03:05,999
-new star systems.
+00:03:04,119 --> 00:03:05,999
+to new star systems.
 
 89
 00:03:06,019 --> 00:03:08,494
@@ -359,12 +359,12 @@ Humanity survived its own war,
 and the three powers stood together long
 
 91
-00:03:10,489 --> 00:03:11,794
-enough to find a path to the
+00:03:10,489 --> 00:03:11,594
+enough to find a path
 
 92
-00:03:11,814 --> 00:03:13,044
-stars.
+00:03:11,614 --> 00:03:13,044
+to the stars.
 
 93
 00:03:13,064 --> 00:03:14,594
@@ -375,10 +375,14 @@ On the other side of those gates
 are worlds no human has ever seen.
 
 95
-00:03:17,439 --> 00:03:19,319
-The solar system just got a lot
+00:03:17,439 --> 00:03:18,994
+The solar system just got
 
 96
-00:03:19,339 --> 00:03:22,185
-bigger, and the adventure is only beginning.
+00:03:19,014 --> 00:03:20,054
+a lot bigger,
+
+97
+00:03:20,074 --> 00:03:22,185
+and the adventure is only beginning.
 

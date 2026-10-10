@@ -1,440 +1,420 @@
 1
-00:00:02,072 --> 00:00:04,172
-Season six follows the sixth book,
+00:00:02,072 --> 00:00:05,917
+Season six follows the sixth book, Babylon's Ashes.
 
 2
-00:00:04,192 --> 00:00:05,917
-Babylon's Ashes.
+00:00:06,052 --> 00:00:07,982
+Marco Inaros and his Free Navy
 
 3
-00:00:06,052 --> 00:00:08,157
-Marco Inaros and his Free Navy have
+00:00:08,002 --> 00:00:10,357
+have wrecked Earth and seized the Belt.
 
 4
-00:00:08,177 --> 00:00:10,357
-wrecked Earth and seized the Belt.
-
-5
 00:00:10,377 --> 00:00:11,727
 Now Earth, Mars,
 
+5
+00:00:11,747 --> 00:00:13,052
+and the Belters who refused
+
 6
-00:00:11,747 --> 00:00:13,652
-and the Belters who refused to follow
+00:00:13,072 --> 00:00:14,852
+to follow him have to work together
 
 7
-00:00:13,672 --> 00:00:15,327
-him have to work together to stop
+00:00:14,872 --> 00:00:16,177
+to stop him.
 
 8
-00:00:15,347 --> 00:00:16,177
-him.
-
-9
 00:00:16,197 --> 00:00:18,627
 Four stories: the Rocinante,
 
-10
+9
 00:00:18,647 --> 00:00:20,327
 Marco and his son,
 
-11
+10
 00:00:20,347 --> 00:00:22,267
 a pirate captain with a conscience,
 
-12
+11
 00:00:22,287 --> 00:00:23,992
 and the battle for the Ring.
 
-13
+12
 00:00:24,012 --> 00:00:25,292
 Spoilers ahead!
 
-14
+13
 00:00:26,056 --> 00:00:28,461
 Story one: the Rocinante.
 
-15
+14
 00:00:28,481 --> 00:00:29,836
 The crew is back together,
 
-16
+15
 00:00:29,856 --> 00:00:32,531
 with Bobbie and Clarissa now aboard.
 
-17
+16
 00:00:32,571 --> 00:00:35,276
 Their first job comes from Avasarala.
 
-18
+17
 00:00:35,296 --> 00:00:37,226
 They hunt down the Azure Dragon,
 
+18
+00:00:37,246 --> 00:00:39,101
+the Free Navy ship that guided
+
 19
-00:00:37,246 --> 00:00:39,251
-the Free Navy ship that guided the
+00:00:39,121 --> 00:00:40,901
+the rocks onto Earth.
 
 20
-00:00:39,271 --> 00:00:40,901
-rocks onto Earth.
+00:00:40,921 --> 00:00:42,201
+They disable it and bring
 
 21
-00:00:40,921 --> 00:00:42,701
-They disable it and bring its crew
+00:00:42,221 --> 00:00:45,001
+its crew back to the Moon as prisoners.
 
 22
-00:00:42,721 --> 00:00:45,001
-back to the Moon as prisoners.
+00:00:45,021 --> 00:00:48,875
+Earth, Mars, and the loyal Belters form an alliance.
 
 23
-00:00:45,021 --> 00:00:47,821
-Earth, Mars, and the loyal Belters form
+00:00:49,585 --> 00:00:51,965
+Then the Rocinante carries Fred Johnson
 
 24
-00:00:47,841 --> 00:00:48,875
-an alliance.
+00:00:51,985 --> 00:00:53,640
+to Tycho, for a meeting
 
 25
-00:00:49,585 --> 00:00:52,090
-Then the Rocinante carries Fred Johnson to
+00:00:53,660 --> 00:00:55,290
+of the Belt's leaders.
 
 26
-00:00:52,110 --> 00:00:54,240
-Tycho, for a meeting of the Belt's
-
-27
-00:00:54,260 --> 00:00:55,290
-leaders.
-
-28
 00:00:55,310 --> 00:00:57,765
 Marco ambushes them on the way.
 
-29
+27
 00:00:57,785 --> 00:01:00,120
 Holden quietly holds back his weapons,
 
-30
+28
 00:01:00,140 --> 00:01:02,795
 because Filip is on Marco's ship.
 
-31
+29
 00:01:02,815 --> 00:01:04,045
 They fight their way out,
 
-32
-00:01:04,065 --> 00:01:05,845
-but the hard burn is too much
+30
+00:01:04,065 --> 00:01:06,845
+but the hard burn is too much for Fred.
 
-33
-00:01:05,865 --> 00:01:06,845
-for Fred.
-
-34
+31
 00:01:06,865 --> 00:01:08,720
 He dies of a stroke.
 
-35
+32
 00:01:08,740 --> 00:01:10,520
 Holden takes his place at the table
 
-36
+33
 00:01:10,540 --> 00:01:12,856
 and helps hold the Belt factions together.
 
-37
+34
 00:01:13,565 --> 00:01:16,245
 Story two: Marco and Filip.
 
+35
+00:01:16,265 --> 00:01:17,920
+Marco calls himself the leader
+
+36
+00:01:17,940 --> 00:01:18,945
+of a free Belt,
+
+37
+00:01:18,965 --> 00:01:21,315
+but his war is going badly.
+
 38
-00:01:16,265 --> 00:01:18,145
-Marco calls himself the leader of a
+00:01:21,395 --> 00:01:22,675
+When the alliance moves
 
 39
-00:01:18,165 --> 00:01:20,170
-free Belt, but his war is going
+00:01:22,695 --> 00:01:24,325
+to take back Ceres,
 
 40
-00:01:20,190 --> 00:01:21,315
-badly.
+00:01:24,345 --> 00:01:26,200
+he strips the station of its food
 
 41
-00:01:21,395 --> 00:01:23,400
-When the alliance moves to take back
+00:01:26,220 --> 00:01:28,300
+and supplies and leaves.
 
 42
-00:01:23,420 --> 00:01:25,800
-Ceres, he strips the station of its
-
-43
-00:01:25,820 --> 00:01:28,300
-food and supplies and leaves.
-
-44
 00:01:28,320 --> 00:01:30,575
 Millions of Belters are left stranded,
 
+43
+00:01:30,595 --> 00:01:31,725
+and Earth and Mars
+
+44
+00:01:31,745 --> 00:01:33,175
+have to feed them.
+
 45
-00:01:30,595 --> 00:01:32,400
-and Earth and Mars have to feed
+00:01:33,195 --> 00:01:34,325
+Filip begins to see
 
 46
-00:01:32,420 --> 00:01:33,175
-them.
+00:01:34,345 --> 00:01:36,137
+what his father really is.
 
 47
-00:01:33,195 --> 00:01:35,075
-Filip begins to see what his father
+00:01:36,876 --> 00:01:37,656
+Filip was there
 
 48
-00:01:35,095 --> 00:01:36,137
-really is.
+00:01:37,676 --> 00:01:38,881
+when the rocks hit Earth,
 
 49
-00:01:36,876 --> 00:01:38,531
-Filip was there when the rocks hit
+00:01:38,901 --> 00:01:41,056
+and he believed it was justice.
 
 50
-00:01:38,551 --> 00:01:41,056
-Earth, and he believed it was justice.
-
-51
 00:01:41,076 --> 00:01:43,156
 Now he sees his father use people
 
+51
+00:01:43,176 --> 00:01:45,551
+and throw them away, even him.
+
 52
-00:01:43,176 --> 00:01:44,301
-and throw them away,
-
-53
-00:01:44,321 --> 00:01:45,551
-even him.
-
-54
 00:01:45,571 --> 00:01:47,301
 When Marco turns on him,
 
-55
+53
 00:01:47,321 --> 00:01:49,426
 Filip finally walks away.
 
+54
+00:01:49,446 --> 00:01:51,226
+He stays on Callisto and takes
+
+55
+00:01:51,246 --> 00:01:52,526
+his mother's name.
+
 56
-00:01:49,446 --> 00:01:51,401
-He stays on Callisto and takes his
-
-57
-00:01:51,421 --> 00:01:52,526
-mother's name.
-
-58
 00:01:52,546 --> 00:01:54,360
 He is Filip Nagata now.
 
-59
+57
 00:01:55,078 --> 00:01:57,733
 Story three: Michio Pa.
 
+58
+00:01:57,753 --> 00:01:59,133
+She is a Free Navy captain
+
+59
+00:01:59,153 --> 00:02:00,683
+who joined Marco to fight
+
 60
-00:01:57,753 --> 00:01:59,283
-She is a Free Navy captain who
+00:02:00,703 --> 00:02:01,903
+for the Belt.
 
 61
-00:01:59,303 --> 00:02:01,903
-joined Marco to fight for the Belt.
+00:02:01,978 --> 00:02:03,183
+But Ceres shows
 
 62
-00:02:01,978 --> 00:02:04,508
-But Ceres shows her that Marco only
+00:02:03,203 --> 00:02:06,228
+her that Marco only cares about winning.
 
 63
-00:02:04,528 --> 00:02:06,228
-cares about winning.
-
-64
 00:02:06,288 --> 00:02:08,393
 So she turns her ships around.
 
-65
+64
 00:02:08,413 --> 00:02:09,518
 Instead of fighting,
 
+65
+00:02:09,538 --> 00:02:11,443
+they hand out stolen supplies
+
 66
-00:02:09,538 --> 00:02:11,668
-they hand out stolen supplies to the
+00:02:11,463 --> 00:02:14,310
+to the colonies that Marco left to starve.
 
 67
-00:02:11,688 --> 00:02:14,310
-colonies that Marco left to starve.
+00:02:14,942 --> 00:02:18,417
+Marco answers by sending ships to destroy her.
 
 68
-00:02:14,942 --> 00:02:17,622
-Marco answers by sending ships to destroy
+00:02:18,547 --> 00:02:20,127
+Pa loses part of her fleet
 
 69
-00:02:17,642 --> 00:02:18,417
-her.
+00:02:20,147 --> 00:02:21,427
+and many of her crew,
 
 70
-00:02:18,547 --> 00:02:20,277
-Pa loses part of her fleet and
+00:02:21,447 --> 00:02:24,027
+but she refuses to go back to him.
 
 71
-00:02:20,297 --> 00:02:21,427
-many of her crew,
-
-72
-00:02:21,447 --> 00:02:23,177
-but she refuses to go back to
-
-73
-00:02:23,197 --> 00:02:24,027
-him.
-
-74
 00:02:24,047 --> 00:02:25,002
 In the end,
 
-75
-00:02:25,022 --> 00:02:27,027
-she joins the alliance for the final
+72
+00:02:25,022 --> 00:02:26,327
+she joins the alliance
 
-76
-00:02:27,047 --> 00:02:28,077
-attack.
+73
+00:02:26,347 --> 00:02:28,077
+for the final attack.
 
-77
+74
 00:02:28,097 --> 00:02:30,052
 She is proof that being a Belter
 
-78
-00:02:30,072 --> 00:02:32,277
-and following Marco are not the same
+75
+00:02:30,072 --> 00:02:31,302
+and following Marco
 
-79
-00:02:32,297 --> 00:02:32,910
-thing.
+76
+00:02:31,322 --> 00:02:32,910
+are not the same thing.
 
-80
+77
 00:02:33,619 --> 00:02:36,499
 Story four: the battle for the Ring.
 
-81
+78
 00:02:36,519 --> 00:02:38,774
 Marco holds Medina Station,
 
-82
+79
 00:02:38,794 --> 00:02:40,849
 and its rail guns can destroy any
 
-83
+80
 00:02:40,869 --> 00:02:42,919
 ship that comes through a gate.
 
-84
+81
 00:02:42,959 --> 00:02:45,684
 The alliance sends its fleets anyway.
 
+82
+00:02:45,714 --> 00:02:47,769
+The Rocinante leads thousands
+
+83
+00:02:47,789 --> 00:02:49,469
+of empty ships through the Ring
+
+84
+00:02:49,489 --> 00:02:51,194
+to soak up the fire.
+
 85
-00:02:45,714 --> 00:02:48,719
-The Rocinante leads thousands of empty ships
+00:02:51,214 --> 00:02:52,844
+Bobbie leads the boarding team
 
 86
-00:02:48,739 --> 00:02:50,194
-through the Ring to soak up the
+00:02:52,864 --> 00:02:53,899
+to the guns.
 
 87
-00:02:50,214 --> 00:02:51,194
-fire.
+00:02:54,609 --> 00:02:58,239
+Bobbie runs into Martian marines guarding the guns.
 
 88
-00:02:51,214 --> 00:02:53,069
-Bobbie leads the boarding team to the
+00:02:58,259 --> 00:03:01,989
+They belong to a rogue admiral named Winston Duarte.
 
 89
-00:02:53,089 --> 00:02:53,899
-guns.
-
-90
-00:02:54,609 --> 00:02:57,264
-Bobbie runs into Martian marines guarding the
-
-91
-00:02:57,284 --> 00:02:58,239
-guns.
-
-92
-00:02:58,259 --> 00:03:00,389
-They belong to a rogue admiral named
-
-93
-00:03:00,409 --> 00:03:01,989
-Winston Duarte.
-
-94
 00:03:02,009 --> 00:03:03,939
 She stops the guns by blowing up
 
-95
+90
 00:03:03,959 --> 00:03:06,189
 the reactor that powers them.
 
-96
+91
 00:03:06,209 --> 00:03:08,789
 Then Naomi uses what she learned:
 
-97
+92
 00:03:08,809 --> 00:03:10,514
 too much mass in the gates makes
 
-98
+93
 00:03:10,534 --> 00:03:12,314
 the next ships vanish.
 
-99
-00:03:12,334 --> 00:03:14,589
-Marco's fleet races into the Ring and
+94
+00:03:12,334 --> 00:03:15,717
+Marco's fleet races into the Ring and disappears.
 
-100
-00:03:14,609 --> 00:03:15,717
-disappears.
-
-101
+95
 00:03:16,469 --> 00:03:19,549
 Season six ends in an uneasy peace.
 
-102
-00:03:19,569 --> 00:03:21,724
-Michio Pa leads a new union that
+96
+00:03:19,569 --> 00:03:21,574
+Michio Pa leads a new union
 
-103
-00:03:21,744 --> 00:03:24,274
-controls traffic through the gates.
+97
+00:03:21,594 --> 00:03:24,274
+that controls traffic through the gates.
 
-104
-00:03:24,294 --> 00:03:26,824
-The Rocinante crew goes back to freelance
+98
+00:03:24,294 --> 00:03:26,124
+The Rocinante crew goes back
 
-105
-00:03:26,844 --> 00:03:29,324
-work, with Bobbie and Clarissa as part
+99
+00:03:26,144 --> 00:03:27,474
+to freelance work,
 
-106
+100
+00:03:27,494 --> 00:03:29,324
+with Bobbie and Clarissa as part
+
+101
 00:03:29,344 --> 00:03:30,499
 of the family.
 
-107
+102
 00:03:30,519 --> 00:03:31,824
 But far away,
 
-108
+103
 00:03:31,844 --> 00:03:33,866
 Duarte and his rogue Martians have made
 
-109
+104
 00:03:33,886 --> 00:03:35,424
 a home of their own,
 
-110
+105
 00:03:35,444 --> 00:03:37,386
 in a system called Laconia.
 

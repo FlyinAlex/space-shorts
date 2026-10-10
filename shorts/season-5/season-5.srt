@@ -1,38 +1,38 @@
 1
-00:00:02,072 --> 00:00:04,352
-Season five follows the fifth book,
+00:00:02,072 --> 00:00:05,972
+Season five follows the fifth book, Nemesis Games.
 
 2
-00:00:04,372 --> 00:00:05,972
-Nemesis Games.
+00:00:06,037 --> 00:00:08,837
+After Ilus, the Rocinante needs repairs
 
 3
-00:00:06,037 --> 00:00:08,962
-After Ilus, the Rocinante needs repairs at
+00:00:08,857 --> 00:00:10,337
+at Tycho Station,
 
 4
-00:00:08,982 --> 00:00:11,457
-Tycho Station, so for the first time,
+00:00:10,357 --> 00:00:11,457
+so for the first time,
 
 5
 00:00:11,477 --> 00:00:13,007
 the crew splits up.
 
 6
-00:00:13,027 --> 00:00:14,482
-Each of them goes off to face
+00:00:13,027 --> 00:00:14,032
+Each of them goes off
 
 7
-00:00:14,502 --> 00:00:16,282
-something from their past.
+00:00:14,052 --> 00:00:16,282
+to face something from their past.
 
 8
-00:00:16,302 --> 00:00:19,307
-Meanwhile, a Belter named Marco Inaros is
+00:00:16,302 --> 00:00:19,132
+Meanwhile, a Belter named Marco Inaros
 
 9
-00:00:19,327 --> 00:00:21,332
-planning something huge.
+00:00:19,152 --> 00:00:21,332
+is planning something huge.
 
 10
 00:00:21,352 --> 00:00:23,107
@@ -63,12 +63,12 @@ a documentary maker named Monica Stuart brings
 him a mystery.
 
 17
-00:00:36,104 --> 00:00:38,159
-Colony ships heading for the gates are
+00:00:36,104 --> 00:00:37,984
+Colony ships heading for the gates
 
 18
-00:00:38,179 --> 00:00:40,134
-vanishing without a trace.
+00:00:38,004 --> 00:00:40,134
+are vanishing without a trace.
 
 19
 00:00:40,154 --> 00:00:42,834
@@ -103,32 +103,32 @@ His Free Navy hits Earth,
 Mars, and the stations of the Belt.
 
 27
-00:00:58,019 --> 00:01:01,799
-On Tycho, attackers steal the last protomolecule
+00:00:58,019 --> 00:01:00,199
+On Tycho, attackers steal
 
 28
-00:01:01,819 --> 00:01:02,799
-sample.
+00:01:00,219 --> 00:01:02,799
+the last protomolecule sample.
 
 29
-00:01:02,819 --> 00:01:05,049
-Holden and Fred Johnson hold the station
+00:01:02,819 --> 00:01:04,474
+Holden and Fred Johnson hold
 
 30
-00:01:05,069 --> 00:01:07,489
-together, but Holden is stuck there,
+00:01:04,494 --> 00:01:05,739
+the station together,
 
 31
+00:01:05,759 --> 00:01:07,489
+but Holden is stuck there,
+
+32
 00:01:07,509 --> 00:01:08,814
 cut off from his crew,
 
-32
-00:01:08,834 --> 00:01:11,039
-with no idea where Naomi went or
-
 33
-00:01:11,059 --> 00:01:11,724
-why.
+00:01:08,834 --> 00:01:11,724
+with no idea where Naomi went or why.
 
 34
 00:01:12,433 --> 00:01:14,388
@@ -139,310 +139,306 @@ Story two: Naomi.
 She gets a message from Marco Inaros,
 
 36
-00:01:16,753 --> 00:01:18,008
-the man she was with when she
+00:01:16,753 --> 00:01:19,133
+the man she was with when she was young.
 
 37
-00:01:18,028 --> 00:01:19,133
-was young.
+00:01:19,153 --> 00:01:20,313
+Years ago, he tricked
 
 38
-00:01:19,153 --> 00:01:21,138
-Years ago, he tricked her into writing
+00:01:20,333 --> 00:01:23,658
+her into writing code that killed hundreds of people.
 
 39
-00:01:21,158 --> 00:01:23,658
-code that killed hundreds of people.
-
-40
 00:01:23,683 --> 00:01:24,688
 They had a son,
 
+40
+00:01:24,708 --> 00:01:27,343
+Filip, and Marco took him away from her.
+
 41
-00:01:24,708 --> 00:01:26,568
-Filip, and Marco took him away from
-
-42
-00:01:26,588 --> 00:01:27,343
-her.
-
-43
 00:01:27,363 --> 00:01:29,118
 Now Filip is in trouble,
 
-44
+42
 00:01:29,138 --> 00:01:31,818
 so Naomi leaves for Ceres alone,
 
-45
+43
 00:01:31,838 --> 00:01:33,725
 without telling Holden why.
 
-46
+44
 00:01:34,391 --> 00:01:35,646
 It's a trap.
 
-47
+45
 00:01:35,666 --> 00:01:36,921
 Marco planned it all,
 
-48
+46
 00:01:36,941 --> 00:01:38,556
 with Filip as the bait,
 
+47
+00:01:38,576 --> 00:01:39,731
+and Filip is now one
+
+48
+00:01:39,751 --> 00:01:41,606
+of Marco's soldiers.
+
 49
-00:01:38,576 --> 00:01:40,381
-and Filip is now one of Marco's
-
-50
-00:01:40,401 --> 00:01:41,606
-soldiers.
-
-51
 00:01:41,626 --> 00:01:44,226
 Naomi becomes Marco's prisoner.
 
-52
+50
 00:01:44,296 --> 00:01:45,851
 He leaves her on a ship rigged
 
+51
+00:01:45,871 --> 00:01:48,126
+to explode when the Rocinante comes
+
+52
+00:01:48,146 --> 00:01:49,426
+to save her.
+
 53
-00:01:45,871 --> 00:01:48,301
-to explode when the Rocinante comes to
-
-54
-00:01:48,321 --> 00:01:49,426
-save her.
-
-55
 00:01:49,446 --> 00:01:50,901
 Naomi gets out,
 
-56
+54
 00:01:50,921 --> 00:01:51,951
 sends a warning,
 
+55
+00:01:51,971 --> 00:01:53,876
+and drifts in space until Alex
+
+56
+00:01:53,896 --> 00:01:55,306
+and Bobbie pick her up.
+
 57
-00:01:51,971 --> 00:01:54,001
-and drifts in space until Alex and
-
-58
-00:01:54,021 --> 00:01:55,306
-Bobbie pick her up.
-
-59
 00:01:56,049 --> 00:01:58,179
 Story three: Amos.
 
-60
+58
 00:01:58,199 --> 00:02:00,054
 He flies to Earth after the death
 
-61
+59
 00:02:00,074 --> 00:02:01,554
 of Lydia, the woman who took him
 
-62
+60
 00:02:01,574 --> 00:02:03,124
 in when he was young.
 
-63
+61
 00:02:03,149 --> 00:02:04,679
 He goes back to Baltimore,
 
-64
+62
 00:02:04,699 --> 00:02:06,974
 the hard streets where he grew up.
 
-65
+63
 00:02:06,999 --> 00:02:09,629
 He also visits Clarissa Mao in prison,
 
+64
+00:02:09,649 --> 00:02:10,779
+the woman who once tried
+
+65
+00:02:10,799 --> 00:02:12,179
+to kill Holden.
+
 66
-00:02:09,649 --> 00:02:11,179
-the woman who once tried to kill
-
-67
-00:02:11,199 --> 00:02:12,179
-Holden.
-
-68
 00:02:12,199 --> 00:02:14,029
 Then the sky falls.
 
-69
+67
 00:02:14,049 --> 00:02:17,223
 Marco's stealth-coated rocks slam into Earth.
 
-70
-00:02:17,895 --> 00:02:20,100
-The impacts kill hundreds of millions of
+68
+00:02:17,895 --> 00:02:21,100
+The impacts kill hundreds of millions of people.
 
-71
-00:02:20,120 --> 00:02:21,100
-people.
-
-72
+69
 00:02:21,120 --> 00:02:23,025
 Clarissa's prison breaks open,
 
-73
+70
 00:02:23,045 --> 00:02:25,245
 and Amos takes her with him.
 
-74
+71
 00:02:25,295 --> 00:02:27,625
 With help from old friends of Amos,
 
-75
+72
 00:02:27,645 --> 00:02:29,650
 they cross a shattered Earth and fight
 
-76
+73
 00:02:29,670 --> 00:02:32,225
 their way onto a ship to space.
 
+74
+00:02:32,245 --> 00:02:34,725
+Clarissa, who came to the Rocinante
+
+75
+00:02:34,745 --> 00:02:35,775
+as an enemy,
+
+76
+00:02:35,795 --> 00:02:37,325
+comes back to it as a member
+
 77
-00:02:32,245 --> 00:02:34,825
-Clarissa, who came to the Rocinante as
+00:02:37,345 --> 00:02:38,286
+of the crew.
 
 78
-00:02:34,845 --> 00:02:37,000
-an enemy, comes back to it as
-
-79
-00:02:37,020 --> 00:02:38,286
-a member of the crew.
-
-80
 00:02:39,015 --> 00:02:41,145
 Story four: Alex.
 
-81
+79
 00:02:41,165 --> 00:02:42,595
 He flies to Mars,
 
-82
+80
 00:02:42,615 --> 00:02:44,625
 hoping to make peace with his ex-wife,
 
-83
+81
 00:02:44,645 --> 00:02:46,595
 but she doesn't want to see him.
 
-84
+82
 00:02:46,635 --> 00:02:48,480
 There he meets Bobbie Draper,
 
+83
+00:02:48,500 --> 00:02:51,380
+out of the Marines and working with veterans.
+
+84
+00:02:51,400 --> 00:02:53,605
+Bobbie has noticed that Martian warships
+
 85
-00:02:48,500 --> 00:02:50,230
-out of the Marines and working with
+00:02:53,625 --> 00:02:54,950
+are going missing,
 
 86
-00:02:50,250 --> 00:02:51,380
-veterans.
+00:02:54,970 --> 00:02:57,650
+sold off by people inside the navy.
 
 87
-00:02:51,400 --> 00:02:53,730
-Bobbie has noticed that Martian warships are
-
-88
-00:02:53,750 --> 00:02:56,625
-going missing, sold off by people inside
-
-89
-00:02:56,645 --> 00:02:57,650
-the navy.
-
-90
 00:02:57,670 --> 00:02:59,546
 Then someone tries to kill her.
 
-91
+88
 00:03:00,236 --> 00:03:02,141
 Using Holden's coordinates,
 
-92
+89
 00:03:02,161 --> 00:03:04,666
 Alex and Bobbie fly the Razorback,
 
-93
+90
 00:03:04,686 --> 00:03:07,116
 Julie Mao's old racing ship.
 
+91
+00:03:07,136 --> 00:03:08,416
+They find a hidden fleet
+
+92
+00:03:08,436 --> 00:03:10,516
+of stolen Martian warships,
+
+93
+00:03:10,536 --> 00:03:13,641
+the ships Marco's Free Navy is built from.
+
 94
-00:03:07,136 --> 00:03:09,091
-They find a hidden fleet of stolen
-
-95
-00:03:09,111 --> 00:03:12,266
-Martian warships, the ships Marco's Free Navy
-
-96
-00:03:12,286 --> 00:03:13,641
-is built from.
-
-97
 00:03:13,661 --> 00:03:17,311
 Marco attacks the Martian Prime Minister's convoy,
 
-98
-00:03:17,331 --> 00:03:19,511
-and Alex and Bobbie barely survive the
+95
+00:03:17,331 --> 00:03:20,436
+and Alex and Bobbie barely survive the battle.
 
-99
-00:03:19,531 --> 00:03:20,436
-battle.
-
-100
+96
 00:03:20,456 --> 00:03:22,694
 Then they race to rescue Naomi.
 
-101
-00:03:23,416 --> 00:03:25,471
-Season five ends with the crew back
+97
+00:03:23,416 --> 00:03:24,696
+Season five ends
 
-102
-00:03:25,491 --> 00:03:27,071
-together on the Rocinante,
+98
+00:03:24,716 --> 00:03:25,946
+with the crew back together
 
-103
+99
+00:03:25,966 --> 00:03:27,071
+on the Rocinante,
+
+100
 00:03:27,091 --> 00:03:29,446
 with Bobbie and Clarissa aboard.
 
-104
+101
 00:03:29,466 --> 00:03:30,721
 Earth is wounded,
 
+102
+00:03:30,741 --> 00:03:32,046
+and Marco's Free Navy
+
+103
+00:03:32,066 --> 00:03:34,021
+has seized Medina Station,
+
+104
+00:03:34,041 --> 00:03:36,146
+the hub inside the Ring.
+
 105
-00:03:30,741 --> 00:03:33,171
-and Marco's Free Navy has seized Medina
-
-106
-00:03:33,191 --> 00:03:36,146
-Station, the hub inside the Ring.
-
-107
 00:03:36,166 --> 00:03:37,331
 Leaders of Earth,
 
+106
+00:03:37,351 --> 00:03:38,681
+Mars, and the Belt meet
+
+107
+00:03:38,701 --> 00:03:39,856
+on the Moon to plan
+
 108
-00:03:37,351 --> 00:03:38,931
-Mars, and the Belt meet on the
+00:03:39,876 --> 00:03:41,276
+what comes next.
 
 109
-00:03:38,951 --> 00:03:41,276
-Moon to plan what comes next.
+00:03:41,371 --> 00:03:42,826
+And something inside the gates
 
 110
-00:03:41,371 --> 00:03:43,476
-And something inside the gates has started
+00:03:42,846 --> 00:03:45,376
+has started making ships disappear.
 
 111
-00:03:43,496 --> 00:03:45,376
-making ships disappear.
-
-112
 00:03:45,396 --> 00:03:47,535
 Next up: season six.
 

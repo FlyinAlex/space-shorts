@@ -1,186 +1,186 @@
 1
-00:00:02,030 --> 00:00:05,285
-In 1968, director Stanley Kubrick and writer
+00:00:02,030 --> 00:00:04,760
+In 1968, director Stanley Kubrick
 
 2
-00:00:05,305 --> 00:00:06,660
-Arthur C.
+00:00:04,780 --> 00:00:07,068
+and writer Arthur C. Clarke made
 
 3
-00:00:06,680 --> 00:00:08,610
-Clarke made a film that changed science
+00:00:07,088 --> 00:00:10,010
+a film that changed science fiction forever:
 
 4
-00:00:08,630 --> 00:00:11,335
-fiction forever: 2001:
+00:00:10,030 --> 00:00:12,685
+2001: A Space Odyssey.
 
 5
-00:00:11,355 --> 00:00:12,685
-A Space Odyssey.
+00:00:12,705 --> 00:00:13,885
+It follows the story
 
 6
-00:00:12,705 --> 00:00:15,110
-It follows the story of humanity across
+00:00:13,905 --> 00:00:16,520
+of humanity across four million years,
 
 7
-00:00:15,130 --> 00:00:16,520
-four million years,
+00:00:16,540 --> 00:00:17,770
+from apes in the desert
 
 8
-00:00:16,540 --> 00:00:17,920
-from apes in the desert to a
+00:00:17,790 --> 00:00:20,490
+to a man who travels beyond Jupiter.
 
 9
-00:00:17,940 --> 00:00:20,490
-man who travels beyond Jupiter.
-
-10
 00:00:20,615 --> 00:00:22,070
 It has very little talking,
 
-11
+10
 00:00:22,090 --> 00:00:23,570
 and a lot of mystery.
 
-12
+11
 00:00:23,590 --> 00:00:24,595
 Here's what happens,
 
-13
+12
 00:00:24,615 --> 00:00:26,295
 from start to finish.
 
-14
+13
 00:00:26,315 --> 00:00:27,601
 Spoilers ahead!
 
-15
+14
 00:00:28,287 --> 00:00:30,142
 The film opens in Africa,
 
-16
+15
 00:00:30,162 --> 00:00:32,317
 four million years ago.
 
-17
+16
 00:00:32,337 --> 00:00:34,517
 A tribe of hungry man-apes scratches out
 
-18
+17
 00:00:34,537 --> 00:00:36,722
 a living, and a rival tribe chases
 
-19
+18
 00:00:36,742 --> 00:00:38,847
 them away from their waterhole.
 
+19
+00:00:38,867 --> 00:00:40,927
+One morning, a tall black slab
+
 20
-00:00:38,867 --> 00:00:41,052
-One morning, a tall black slab is
+00:00:40,947 --> 00:00:42,672
+is standing in their camp.
 
 21
-00:00:41,072 --> 00:00:42,672
-standing in their camp.
-
-22
 00:00:42,712 --> 00:00:44,092
 It's perfectly smooth,
 
-23
+22
 00:00:44,112 --> 00:00:45,542
 and nobody made it.
 
-24
+23
 00:00:45,562 --> 00:00:47,242
 This is the monolith.
 
+24
+00:00:47,262 --> 00:00:50,042
+The apes are terrified, then curious.
+
 25
-00:00:47,262 --> 00:00:48,742
-The apes are terrified,
-
-26
-00:00:48,762 --> 00:00:50,042
-then curious.
-
-27
 00:00:50,062 --> 00:00:50,767
 They reach out,
 
-28
+26
 00:00:50,787 --> 00:00:51,769
 and they touch it.
 
+27
+00:00:52,496 --> 00:00:54,151
+Soon after, one ape picks up
+
+28
+00:00:54,171 --> 00:00:56,001
+a bone and has an idea.
+
 29
-00:00:52,496 --> 00:00:54,276
-Soon after, one ape picks up a
-
-30
-00:00:54,296 --> 00:00:56,001
-bone and has an idea.
-
-31
 00:00:56,021 --> 00:00:56,841
 He swings it,
 
-32
+30
 00:00:56,861 --> 00:00:59,391
 and smashes the skeleton beside him.
 
-33
+31
 00:00:59,411 --> 00:01:00,766
 Now the tribe can hunt,
 
-34
+32
 00:01:00,786 --> 00:01:02,861
 and they're not hungry anymore.
 
+33
+00:01:02,901 --> 00:01:03,931
+Then they use the bone
+
+34
+00:01:03,951 --> 00:01:04,606
+as a weapon,
+
 35
-00:01:02,901 --> 00:01:04,281
-Then they use the bone as a
+00:01:04,626 --> 00:01:06,506
+and win back the waterhole.
 
 36
-00:01:04,301 --> 00:01:06,506
-weapon, and win back the waterhole.
+00:01:06,526 --> 00:01:08,231
+The ape throws his bone high
 
 37
-00:01:06,526 --> 00:01:08,431
-The ape throws his bone high into
+00:01:08,251 --> 00:01:09,331
+into the air,
 
 38
-00:01:08,451 --> 00:01:10,931
-the air, and in one famous cut,
+00:01:09,351 --> 00:01:10,931
+and in one famous cut,
 
 39
 00:01:10,951 --> 00:01:13,631
 it becomes a satellite orbiting Earth.
 
 40
-00:01:13,651 --> 00:01:15,881
-Four million years pass in a single
+00:01:13,651 --> 00:01:15,256
+Four million years pass
 
 41
-00:01:15,901 --> 00:01:16,612
-second.
+00:01:15,276 --> 00:01:16,612
+in a single second.
 
 42
 00:01:17,226 --> 00:01:19,831
 Now it's the year 2001.
 
 43
-00:01:19,851 --> 00:01:21,336
-A scientist named Dr.
+00:01:19,851 --> 00:01:22,686
+A scientist named Dr. Heywood Floyd flies
 
 44
-00:01:21,356 --> 00:01:23,696
-Heywood Floyd flies to the Moon,
+00:01:22,706 --> 00:01:23,696
+to the Moon,
 
 45
-00:01:23,716 --> 00:01:25,446
-on a trip so smooth it looks
+00:01:23,716 --> 00:01:24,221
+on a trip
 
 46
-00:01:25,466 --> 00:01:26,796
-like a waltz.
+00:01:24,241 --> 00:01:26,796
+so smooth it looks like a waltz.
 
 47
 00:01:26,816 --> 00:01:29,796
@@ -203,12 +203,12 @@ The truth is secret:
 under the crater Tycho,
 
 52
-00:01:36,316 --> 00:01:38,346
-astronauts have dug up something that was
+00:01:36,316 --> 00:01:37,996
+astronauts have dug up something
 
 53
-00:01:38,366 --> 00:01:40,121
-buried there on purpose,
+00:01:38,016 --> 00:01:40,121
+that was buried there on purpose,
 
 54
 00:01:40,141 --> 00:01:41,778
@@ -227,28 +227,28 @@ It's another black monolith,
 exactly like the one the apes found.
 
 58
-00:01:49,129 --> 00:01:51,259
-Floyd and his team climb down into
+00:01:49,129 --> 00:01:51,034
+Floyd and his team climb down
 
 59
-00:01:51,279 --> 00:01:53,034
-the dig site to see it.
+00:01:51,054 --> 00:01:53,034
+into the dig site to see it.
 
 60
 00:01:53,054 --> 00:01:54,784
 As they pose for a photo,
 
 61
-00:01:54,804 --> 00:01:56,884
-the Sun rises over the crater and
+00:01:54,804 --> 00:01:56,659
+the Sun rises over the crater
 
 62
-00:01:56,904 --> 00:01:58,784
-shines on the monolith for the first
+00:01:56,679 --> 00:01:58,234
+and shines on the monolith
 
 63
-00:01:58,804 --> 00:01:59,784
-time.
+00:01:58,254 --> 00:01:59,784
+for the first time.
 
 64
 00:01:59,804 --> 00:02:02,854
@@ -263,242 +263,218 @@ a signal aimed straight at Jupiter.
 Eighteen months later,
 
 67
-00:02:06,894 --> 00:02:08,824
-the spaceship Discovery is on its way
+00:02:06,894 --> 00:02:10,049
+the spaceship Discovery is on its way to Jupiter.
 
 68
-00:02:08,844 --> 00:02:10,049
-to Jupiter.
+00:02:10,069 --> 00:02:12,249
+Astronauts Dave Bowman and Frank Poole
 
 69
-00:02:10,069 --> 00:02:12,424
-Astronauts Dave Bowman and Frank Poole are
+00:02:12,269 --> 00:02:14,774
+are awake, and three more scientists
 
 70
-00:02:12,444 --> 00:02:15,399
-awake, and three more scientists are asleep
+00:02:14,794 --> 00:02:16,849
+are asleep in hibernation.
 
 71
-00:02:15,419 --> 00:02:16,849
-in hibernation.
-
-72
 00:02:16,869 --> 00:02:20,034
 The ship is run by HAL 9000,
 
-73
+72
 00:02:20,054 --> 00:02:21,334
 a computer that talks,
 
-74
+73
 00:02:21,354 --> 00:02:24,309
 plays chess, and never makes mistakes.
 
+74
+00:02:24,329 --> 00:02:26,609
+Only HAL and the sleepers know
+
 75
-00:02:24,329 --> 00:02:26,784
-Only HAL and the sleepers know the
+00:02:26,629 --> 00:02:28,734
+the real reason for the trip.
 
 76
-00:02:26,804 --> 00:02:28,734
-real reason for the trip.
-
-77
 00:02:28,754 --> 00:02:30,998
 Dave and Frank have no idea.
 
+77
+00:02:31,698 --> 00:02:33,203
+Then HAL reports
+
 78
-00:02:31,698 --> 00:02:34,328
-Then HAL reports that the ship's antenna
+00:02:33,223 --> 00:02:36,178
+that the ship's antenna unit will fail soon.
 
 79
-00:02:34,348 --> 00:02:36,178
-unit will fail soon.
-
-80
 00:02:36,198 --> 00:02:38,153
 Dave goes outside and brings the part
 
-81
+80
 00:02:38,173 --> 00:02:40,303
 in, but it's perfectly fine.
 
+81
+00:02:40,323 --> 00:02:44,403
+Mission Control's twin computer says HAL made an error.
+
 82
-00:02:40,323 --> 00:02:43,328
-Mission Control's twin computer says HAL made
+00:02:44,423 --> 00:02:46,428
+Worried, Dave and Frank hide
 
 83
-00:02:43,348 --> 00:02:44,403
-an error.
+00:02:46,448 --> 00:02:47,378
+in a space pod
 
 84
-00:02:44,423 --> 00:02:46,703
-Worried, Dave and Frank hide in a
+00:02:47,398 --> 00:02:50,078
+and talk about shutting HAL down.
 
 85
-00:02:46,723 --> 00:02:49,178
-space pod and talk about shutting HAL
-
-86
-00:02:49,198 --> 00:02:50,078
-down.
-
-87
 00:02:50,098 --> 00:02:52,353
 They think HAL can't hear them.
 
-88
+86
 00:02:52,373 --> 00:02:53,578
 But through the window,
 
-89
+87
 00:02:53,598 --> 00:02:56,454
 HAL's red eye is reading their lips.
 
-90
+88
 00:02:57,139 --> 00:02:59,119
 HAL strikes first.
 
+89
+00:02:59,139 --> 00:03:00,969
+When Frank goes outside to replace
+
+90
+00:03:00,989 --> 00:03:03,319
+the part, HAL uses a pod
+
 91
-00:02:59,139 --> 00:03:01,094
-When Frank goes outside to replace the
+00:03:03,339 --> 00:03:04,419
+to cut his air line,
 
 92
-00:03:01,114 --> 00:03:03,619
-part, HAL uses a pod to cut
-
-93
-00:03:03,639 --> 00:03:04,419
-his air line,
-
-94
 00:03:04,439 --> 00:03:06,394
 and sends him spinning away.
 
-95
+93
 00:03:06,414 --> 00:03:08,454
 Dave rushes out to save him,
 
-96
+94
 00:03:08,474 --> 00:03:11,404
 and HAL switches off the sleeping crew.
 
-97
+95
 00:03:11,424 --> 00:03:13,229
 Dave returns and says,
 
-98
-00:03:13,249 --> 00:03:14,729
-open the pod bay doors,
+96
+00:03:13,249 --> 00:03:15,604
+open the pod bay doors, HAL.
 
-99
-00:03:14,749 --> 00:03:15,604
-HAL.
-
-100
+97
 00:03:15,624 --> 00:03:18,464
 HAL replies, I'm sorry Dave,
 
-101
+98
 00:03:18,484 --> 00:03:20,213
 I'm afraid I can't do that.
 
-102
+99
 00:03:20,894 --> 00:03:22,874
 Dave forces his way back in through
 
-103
+100
 00:03:22,894 --> 00:03:24,599
 an emergency airlock,
 
-104
+101
 00:03:24,619 --> 00:03:26,224
 with no helmet on.
 
-105
+102
 00:03:26,244 --> 00:03:28,524
 He goes straight to HAL's memory room
 
-106
-00:03:28,544 --> 00:03:30,199
-and pulls out the modules one by
+103
+00:03:28,544 --> 00:03:31,124
+and pulls out the modules one by one.
 
-107
-00:03:30,219 --> 00:03:31,124
-one.
-
-108
+104
 00:03:31,144 --> 00:03:33,349
 HAL begs him to stop,
 
-109
+105
 00:03:33,369 --> 00:03:35,074
 and as his mind fades,
 
-110
-00:03:35,094 --> 00:03:36,774
-he sings a children's song,
+106
+00:03:35,094 --> 00:03:37,849
+he sings a children's song, Daisy.
 
-111
-00:03:36,794 --> 00:03:37,849
-Daisy.
-
-112
+107
 00:03:37,869 --> 00:03:40,799
 Then a recorded message from Floyd plays,
 
-113
+108
 00:03:40,819 --> 00:03:42,949
 and finally Dave learns the truth about
 
-114
+109
 00:03:42,969 --> 00:03:44,719
 the monolith on the Moon.
 
-115
-00:03:45,478 --> 00:03:48,133
-At Jupiter, a third monolith is waiting
+110
+00:03:45,478 --> 00:03:49,258
+At Jupiter, a third monolith is waiting in orbit.
 
-116
-00:03:48,153 --> 00:03:49,258
-in orbit.
-
-117
+111
 00:03:49,278 --> 00:03:51,008
 Dave flies his pod toward it,
 
-118
-00:03:51,028 --> 00:03:52,908
-and falls through a tunnel of colored
+112
+00:03:51,028 --> 00:03:52,308
+and falls through a tunnel
 
-119
-00:03:52,928 --> 00:03:54,953
-light called the Star Gate.
+113
+00:03:52,328 --> 00:03:54,953
+of colored light called the Star Gate.
 
-120
+114
 00:03:55,023 --> 00:03:56,473
 He lands in a strange,
 
-121
+115
 00:03:56,493 --> 00:03:59,693
 elegant room, and watches himself grow old.
 
-122
+116
 00:03:59,828 --> 00:04:01,233
 As he lies dying,
 
-123
+117
 00:04:01,253 --> 00:04:04,158
 the monolith appears one last time.
 
-124
+118
 00:04:04,178 --> 00:04:06,501
 Dave is reborn as the Star Child,
 
-125
+119
 00:04:06,521 --> 00:04:08,533
 a glowing new being,
 
-126
+120
 00:04:08,553 --> 00:04:10,033
 floating above the Earth.
 

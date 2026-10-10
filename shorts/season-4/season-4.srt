@@ -1,366 +1,366 @@
 1
-00:00:02,076 --> 00:00:04,226
-Season four follows the fourth book,
+00:00:02,076 --> 00:00:05,551
+Season four follows the fourth book, Cibola Burn.
 
 2
-00:00:04,246 --> 00:00:05,551
-Cibola Burn.
-
-3
 00:00:05,571 --> 00:00:06,601
 The gates are open,
 
-4
+3
 00:00:06,621 --> 00:00:08,451
 and more than a thousand new worlds
 
-5
+4
 00:00:08,471 --> 00:00:10,151
 wait on the other side.
 
+5
+00:00:10,171 --> 00:00:11,401
+The first fight is over
+
 6
-00:00:10,171 --> 00:00:11,851
-The first fight is over a planet
+00:00:11,421 --> 00:00:13,526
+a planet called Ilus.
 
 7
-00:00:11,871 --> 00:00:13,526
-called Ilus.
-
-8
 00:00:13,546 --> 00:00:16,376
 Refugees from Ganymede got there first.
 
+8
+00:00:16,396 --> 00:00:17,651
+Then a company arrives
+
 9
-00:00:16,396 --> 00:00:18,376
-Then a company arrives with a United
+00:00:17,671 --> 00:00:19,876
+with a United Nations charter that says
 
 10
-00:00:18,396 --> 00:00:20,576
-Nations charter that says the planet is
+00:00:19,896 --> 00:00:21,676
+the planet is theirs.
 
 11
-00:00:20,596 --> 00:00:21,676
-theirs.
-
-12
 00:00:21,696 --> 00:00:23,966
 Three stories: the peacemaker,
 
-13
+12
 00:00:23,986 --> 00:00:26,191
 the settlers, and the scientist.
 
-14
+13
 00:00:26,211 --> 00:00:27,486
 Spoilers ahead!
 
-15
+14
 00:00:28,238 --> 00:00:30,193
 Story one: Holden.
 
-16
+15
 00:00:30,213 --> 00:00:33,118
 Avasarala and Fred Johnson send the Rocinante
 
-17
+16
 00:00:33,138 --> 00:00:35,243
 to Ilus to keep the peace.
 
-18
+17
 00:00:35,263 --> 00:00:37,518
 Holden has a passenger nobody else can
 
-19
+18
 00:00:37,538 --> 00:00:39,418
 see: the ghost of Miller,
 
-20
+19
 00:00:39,438 --> 00:00:41,543
 built by the protomolecule.
 
+20
+00:00:41,563 --> 00:00:42,918
+Miller wants to know what killed
+
 21
-00:00:41,563 --> 00:00:43,068
-Miller wants to know what killed the
+00:00:42,938 --> 00:00:44,693
+the aliens who made it.
 
 22
-00:00:43,088 --> 00:00:44,693
-aliens who made it.
-
-23
 00:00:44,713 --> 00:00:45,643
 On the ground,
 
-24
+23
 00:00:45,663 --> 00:00:48,253
 Holden finds the company's security chief,
 
+24
+00:00:48,273 --> 00:00:50,518
+Murtry, a hard man who treats
+
 25
-00:00:48,273 --> 00:00:50,668
-Murtry, a hard man who treats the
+00:00:50,538 --> 00:00:53,521
+the settlers as trespassers and is ready to shoot.
 
 26
-00:00:50,688 --> 00:00:52,893
-settlers as trespassers and is ready to
-
-27
-00:00:52,913 --> 00:00:53,521
-shoot.
-
-28
 00:00:54,107 --> 00:00:55,637
 When disaster strikes,
 
-29
+27
 00:00:55,657 --> 00:00:57,912
 Murtry sees a war he can win.
 
-30
+28
 00:00:57,932 --> 00:01:00,527
 He hunts down settlers he calls terrorists,
 
-31
+29
 00:01:00,547 --> 00:01:02,202
 and kills some of them.
 
+30
+00:01:02,222 --> 00:01:04,352
+Then a strange infection spreads through
+
+31
+00:01:04,372 --> 00:01:06,677
+the rain and blinds almost everyone
+
 32
-00:01:02,222 --> 00:01:04,502
-Then a strange infection spreads through the
+00:01:06,697 --> 00:01:07,952
+on the planet.
 
 33
-00:01:04,522 --> 00:01:06,902
-rain and blinds almost everyone on the
-
-34
-00:01:06,922 --> 00:01:07,952
-planet.
-
-35
 00:01:07,972 --> 00:01:09,552
 Holden can still see,
 
-36
+34
 00:01:09,572 --> 00:01:12,627
 because his cancer medicine protects his eyes.
 
-37
+35
 00:01:12,647 --> 00:01:15,177
 He leads the survivors through the dark,
 
-38
+36
 00:01:15,197 --> 00:01:16,102
 and in the end,
 
-39
+37
 00:01:16,122 --> 00:01:18,480
 Murtry is locked up to face trial.
 
-40
+38
 00:01:19,240 --> 00:01:21,465
 Story two: Basia Merton.
 
+39
+00:01:21,485 --> 00:01:23,165
+He's a welder who fled Ganymede
+
+40
+00:01:23,185 --> 00:01:23,990
+with his family,
+
 41
-00:01:21,485 --> 00:01:23,290
-He's a welder who fled Ganymede with
+00:01:24,010 --> 00:01:26,440
+and he lost his son Katoa there.
 
 42
-00:01:23,310 --> 00:01:24,990
-his family, and he lost his son
+00:01:26,460 --> 00:01:30,290
+On Ilus, the settlers mine lithium to survive.
 
 43
-00:01:25,010 --> 00:01:26,440
-Katoa there.
-
-44
-00:01:26,460 --> 00:01:29,115
-On Ilus, the settlers mine lithium to
-
-45
-00:01:29,135 --> 00:01:30,290
-survive.
-
-46
 00:01:30,310 --> 00:01:31,740
 To keep the company away,
 
-47
-00:01:31,760 --> 00:01:34,165
-Basia helps plant bombs under its landing
+44
+00:01:31,760 --> 00:01:33,515
+Basia helps plant bombs under
 
-48
-00:01:34,185 --> 00:01:35,210
-pad.
+45
+00:01:33,535 --> 00:01:35,210
+its landing pad.
 
-49
+46
 00:01:35,310 --> 00:01:37,440
 But the shuttle comes down early.
 
-50
+47
 00:01:37,460 --> 00:01:40,410
 It crashes, the company's governor is killed,
 
-51
-00:01:40,430 --> 00:01:42,010
-and Basia has to live with what
+48
+00:01:40,430 --> 00:01:41,685
+and Basia has to live
 
-52
-00:01:42,030 --> 00:01:42,818
-he did.
+49
+00:01:41,705 --> 00:01:42,818
+with what he did.
 
-53
+50
 00:01:43,574 --> 00:01:45,379
 As the planet turns deadly,
 
-54
+51
 00:01:45,399 --> 00:01:47,954
 Basia warns Holden about the settlers' plans
 
-55
+52
 00:01:47,974 --> 00:01:50,379
 and chooses to help instead of hide.
 
-56
+53
 00:01:50,399 --> 00:01:52,554
 Alex, who has made his own mistakes
 
-57
+54
 00:01:52,574 --> 00:01:53,324
 as a father,
 
-58
+55
 00:01:53,344 --> 00:01:54,949
 becomes his friend.
 
-59
+56
 00:01:54,969 --> 00:01:58,049
 Basia survives the storm and the blindness,
 
-60
+57
 00:01:58,069 --> 00:02:00,824
 and Holden chooses not to prosecute him.
 
-61
+58
 00:02:00,844 --> 00:02:02,774
 He gets back to his family.
 
+59
+00:02:02,794 --> 00:02:04,999
+Settlers and company workers start building
+
+60
+00:02:05,019 --> 00:02:06,299
+a new town,
+
+61
+00:02:06,319 --> 00:02:07,778
+side by side.
+
 62
-00:02:02,794 --> 00:02:05,124
-Settlers and company workers start building a
-
-63
-00:02:05,144 --> 00:02:07,778
-new town, side by side.
-
-64
 00:02:08,428 --> 00:02:10,544
 Story three: Elvi Okoye,
 
+63
+00:02:10,564 --> 00:02:12,493
+a company scientist who survived
+
+64
+00:02:12,513 --> 00:02:14,063
+the shuttle crash.
+
 65
-00:02:10,564 --> 00:02:13,018
-a company scientist who survived the shuttle
-
-66
-00:02:13,038 --> 00:02:14,063
-crash.
-
-67
 00:02:14,173 --> 00:02:16,178
 Ilus is full of alien ruins,
 
-68
+66
 00:02:16,198 --> 00:02:17,648
 and they're waking up.
 
-69
+67
 00:02:17,748 --> 00:02:19,828
 An ancient power plant explodes,
 
-70
+68
 00:02:19,848 --> 00:02:22,398
 and a giant storm sweeps the planet.
 
+69
+00:02:22,493 --> 00:02:24,423
+An alien defense system shuts off
+
+70
+00:02:24,443 --> 00:02:27,023
+the reactors on every ship in orbit.
+
 71
-00:02:22,493 --> 00:02:24,523
-An alien defense system shuts off the
-
-72
-00:02:24,543 --> 00:02:27,023
-reactors on every ship in orbit.
-
-73
 00:02:27,043 --> 00:02:29,048
 Their orbits start to sink.
 
+72
+00:02:29,068 --> 00:02:30,873
+Naomi turns a rail gun
+
+73
+00:02:30,893 --> 00:02:32,273
+into an engine to save
+
 74
-00:02:29,068 --> 00:02:31,298
-Naomi turns a rail gun into an
+00:02:32,293 --> 00:02:33,323
+a falling ship,
 
 75
-00:02:31,318 --> 00:02:33,323
-engine to save a falling ship,
-
-76
 00:02:33,343 --> 00:02:34,531
 with help from Havelock,
 
-77
+76
 00:02:34,551 --> 00:02:37,348
 a company officer who changes sides.
 
-78
+77
 00:02:38,082 --> 00:02:40,022
 Miller has found something strange:
 
-79
+78
 00:02:40,042 --> 00:02:42,962
 a dead spot in the alien network.
 
+79
+00:02:42,982 --> 00:02:44,412
+Elvi and Holden head deep
+
 80
-00:02:42,982 --> 00:02:44,762
-Elvi and Holden head deep into the
+00:02:44,432 --> 00:02:45,672
+into the ruins,
 
 81
-00:02:44,782 --> 00:02:47,597
-ruins, and Elvi carries Miller's core into
+00:02:45,692 --> 00:02:47,372
+and Elvi carries Miller's core
 
 82
-00:02:47,617 --> 00:02:49,497
-the dead spot herself.
+00:02:47,392 --> 00:02:49,497
+into the dead spot herself.
 
 83
 00:02:49,517 --> 00:02:52,832
 Every alien machine on Ilus shuts down,
 
 84
-00:02:52,852 --> 00:02:54,357
-and the ships in orbit get their
+00:02:52,852 --> 00:02:54,157
+and the ships in orbit get
 
 85
-00:02:54,377 --> 00:02:55,582
-power back.
+00:02:54,177 --> 00:02:55,582
+their power back.
 
 86
-00:02:55,602 --> 00:02:57,582
-Elvi also finds the cause of the
+00:02:55,602 --> 00:02:57,357
+Elvi also finds the cause
 
 87
-00:02:57,602 --> 00:02:58,832
-blindness.
+00:02:57,377 --> 00:02:58,832
+of the blindness.
 
 88
-00:02:58,852 --> 00:03:00,757
-The scientist who wanted to be left
+00:02:58,852 --> 00:03:00,157
+The scientist who wanted
 
 89
-00:03:00,777 --> 00:03:02,677
-alone saves everyone.
+00:03:00,177 --> 00:03:02,677
+to be left alone saves everyone.
 
 90
-00:03:03,414 --> 00:03:05,644
-Season four ends with proof that people
+00:03:03,414 --> 00:03:05,119
+Season four ends with proof
 
 91
-00:03:05,664 --> 00:03:07,469
-can live on new worlds.
+00:03:05,139 --> 00:03:07,469
+that people can live on new worlds.
 
 92
 00:03:07,489 --> 00:03:10,089
@@ -399,10 +399,6 @@ are being left behind.
 Someone is about to make them listen.
 
 101
-00:03:25,584 --> 00:03:27,939
-Next up: where Fred and Amos came
-
-102
-00:03:27,959 --> 00:03:28,458
-from.
+00:03:25,584 --> 00:03:28,458
+Next up: where Fred and Amos came from.
 
