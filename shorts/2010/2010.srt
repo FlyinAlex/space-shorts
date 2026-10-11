@@ -523,422 +523,426 @@ Back on Earth,
 things get worse.
 
 132
-00:04:23,802 --> 00:04:26,232
-America and the Soviet Union clash over
+00:04:23,802 --> 00:04:25,982
+America and the Soviet Union clash
 
 133
-00:04:26,252 --> 00:04:29,182
-Central America, and their warships face off.
+00:04:26,002 --> 00:04:27,232
+over Central America,
 
 134
+00:04:27,252 --> 00:04:29,182
+and their warships face off.
+
+135
 00:04:29,202 --> 00:04:31,607
 The two countries move toward war.
 
-135
+136
 00:04:31,627 --> 00:04:32,932
 Orders come in:
 
-136
+137
 00:04:32,952 --> 00:04:35,157
 the Americans must leave the Leonov
 
-137
+138
 00:04:35,177 --> 00:04:36,982
 and stay on Discovery.
 
-138
+139
 00:04:37,002 --> 00:04:37,907
 The two crews,
 
-139
+140
 00:04:37,927 --> 00:04:39,207
 who had become friends,
 
-140
+141
 00:04:39,227 --> 00:04:41,357
 now float side by side,
 
-141
+142
 00:04:41,377 --> 00:04:44,021
 almost a billion kilometers from home.
 
-142
+143
 00:04:44,726 --> 00:04:46,046
 Meanwhile, the energy
 
-143
+144
 00:04:46,066 --> 00:04:48,071
 from Big Brother reaches Earth.
 
-144
+145
 00:04:48,091 --> 00:04:49,121
 It's Dave Bowman,
 
-145
+146
 00:04:49,141 --> 00:04:51,341
 now a being without a body.
 
-146
-00:04:51,411 --> 00:04:52,741
-He speaks to his widow through
-
 147
-00:04:52,761 --> 00:04:53,956
-her TV screen,
+00:04:51,411 --> 00:04:52,491
+He speaks to his widow
 
 148
+00:04:52,511 --> 00:04:53,956
+through her TV screen,
+
+149
 00:04:53,976 --> 00:04:55,526
 to say goodbye.
 
-149
+150
 00:04:55,611 --> 00:04:56,766
 Then he visits his mother
 
-150
+151
 00:04:56,786 --> 00:04:58,166
 in a nursing home.
 
-151
+152
 00:04:58,186 --> 00:05:00,441
 She's very old and sick.
 
-152
+153
 00:05:00,461 --> 00:05:03,041
 Unseen, he gently brushes her hair,
 
-153
+154
 00:05:03,061 --> 00:05:04,285
 one last time.
 
-154
+155
 00:05:04,976 --> 00:05:08,541
 Then Dave appears to Floyd, aboard Discovery.
 
-155
+156
 00:05:08,671 --> 00:05:09,726
 At first he's a face
 
-156
+157
 00:05:09,746 --> 00:05:10,526
 on a screen,
 
-157
+158
 00:05:10,546 --> 00:05:12,326
 then he's there in the room.
 
-158
+159
 00:05:12,346 --> 00:05:13,676
 He has a message:
 
-159
+160
 00:05:13,696 --> 00:05:16,126
 something wonderful is going to happen.
 
-160
+161
 00:05:16,146 --> 00:05:18,776
 You must leave Jupiter within two days.
 
-161
+162
 00:05:18,796 --> 00:05:20,346
 Then he's gone.
 
-162
+163
 00:05:20,371 --> 00:05:22,241
 Floyd races to tell the others,
 
-163
+164
 00:05:22,261 --> 00:05:23,977
 but nobody believes him.
 
-164
+165
 00:05:24,658 --> 00:05:26,138
 Then Big Brother vanishes,
 
-165
+166
 00:05:26,158 --> 00:05:28,563
 and a black spot appears on Jupiter.
 
-166
+167
 00:05:28,583 --> 00:05:30,188
 It's growing fast.
 
-167
+168
 00:05:30,208 --> 00:05:32,113
 HAL takes a closer look.
 
-168
+169
 00:05:32,133 --> 00:05:34,288
 The spot is made of monoliths,
 
-169
+170
 00:05:34,308 --> 00:05:36,638
 millions of them, multiplying.
 
-170
+171
 00:05:36,658 --> 00:05:39,093
 Something huge is happening to Jupiter,
 
-171
+172
 00:05:39,113 --> 00:05:41,643
 and now everyone believes Floyd.
 
-172
+173
 00:05:41,663 --> 00:05:43,201
 They have to leave, now.
 
-173
+174
 00:05:43,852 --> 00:05:46,132
 But leaving early is a problem.
 
-174
+175
 00:05:46,152 --> 00:05:48,057
 The Leonov doesn't have enough fuel
 
-175
+176
 00:05:48,077 --> 00:05:49,452
 to get home yet.
 
-176
+177
 00:05:49,542 --> 00:05:50,672
 So the crews,
 
-177
+178
 00:05:50,692 --> 00:05:52,047
 Russian and American,
 
-178
+179
 00:05:52,067 --> 00:05:53,717
 work together again.
 
-179
+180
 00:05:53,777 --> 00:05:56,102
 They strap the two ships together.
 
-180
+181
 00:05:56,252 --> 00:05:59,082
 Discovery's engines will push the Leonov away
 
-181
+182
 00:05:59,102 --> 00:06:01,862
 from Jupiter, like a booster rocket.
 
-182
+183
 00:06:01,882 --> 00:06:03,112
 That means Discovery,
 
-183
+184
 00:06:03,132 --> 00:06:05,078
 and HAL, will be left behind.
 
-184
+185
 00:06:05,852 --> 00:06:07,457
 Floyd is afraid.
 
-185
+186
 00:06:07,477 --> 00:06:09,232
 If HAL learns he'll be abandoned,
 
-186
+187
 00:06:09,252 --> 00:06:10,362
 he might break again,
 
-187
+188
 00:06:10,382 --> 00:06:11,907
 like last time.
 
-188
+189
 00:06:11,982 --> 00:06:14,037
 But Chandra won't lie to him.
 
-189
+190
 00:06:14,057 --> 00:06:16,262
 He tells HAL the whole truth.
 
-190
+191
 00:06:16,282 --> 00:06:17,287
 HAL thinks about it,
 
-191
+192
 00:06:17,307 --> 00:06:19,962
 and agrees to help them escape anyway.
 
-192
+193
 00:06:19,982 --> 00:06:21,437
 This time, the truth
 
-193
+194
 00:06:21,457 --> 00:06:23,144
 is what saves everyone.
 
-194
+195
 00:06:23,826 --> 00:06:25,731
 The countdown begins.
 
-195
+196
 00:06:25,751 --> 00:06:27,981
 As Discovery's engines prepare to fire,
 
-196
+197
 00:06:28,001 --> 00:06:30,556
 HAL asks Chandra a simple question:
 
-197
+198
 00:06:30,576 --> 00:06:31,906
 will I dream?
 
-198
+199
 00:06:31,926 --> 00:06:34,046
 Chandra answers, I don't know.
 
-199
+200
 00:06:34,066 --> 00:06:35,271
 The engines fire,
 
-200
+201
 00:06:35,291 --> 00:06:36,746
 and the two ships climb away
 
-201
+202
 00:06:36,766 --> 00:06:39,291
 from Jupiter, faster and faster.
 
-202
+203
 00:06:39,336 --> 00:06:41,816
 Then a familiar voice speaks to HAL.
 
-203
+204
 00:06:41,836 --> 00:06:42,855
 It's Dave.
 
-204
+205
 00:06:43,582 --> 00:06:45,712
 Dave asks HAL to send one message
 
-205
+206
 00:06:45,732 --> 00:06:47,592
 to Earth, again and again:
 
-206
+207
 00:06:47,612 --> 00:06:50,657
 All these worlds are yours, except Europa.
 
-207
+208
 00:06:50,677 --> 00:06:52,382
 Attempt no landing there.
 
-208
+209
 00:06:52,402 --> 00:06:53,657
 Use them together.
 
-209
+210
 00:06:53,677 --> 00:06:55,232
 Use them in peace.
 
-210
+211
 00:06:55,252 --> 00:06:57,107
 HAL asks what will happen.
 
-211
+212
 00:06:57,127 --> 00:06:59,232
 Dave says, something wonderful.
 
-212
+213
 00:06:59,252 --> 00:07:01,007
 HAL says he's afraid.
 
-213
+214
 00:07:01,027 --> 00:07:02,757
 Dave tells him, don't be.
 
-214
+215
 00:07:02,777 --> 00:07:03,804
 We'll be together.
 
-215
+216
 00:07:04,500 --> 00:07:06,830
 The monoliths swallow Jupiter.
 
-216
+217
 00:07:06,850 --> 00:07:08,455
 The giant planet collapses,
 
-217
+218
 00:07:08,475 --> 00:07:10,275
 and then it ignites.
 
-218
+219
 00:07:10,365 --> 00:07:12,045
 Discovery and HAL are gone
 
-219
+220
 00:07:12,065 --> 00:07:13,270
 in the flash.
 
-220
+221
 00:07:13,290 --> 00:07:16,545
 The Leonov is far enough away to survive.
 
-221
+222
 00:07:16,565 --> 00:07:18,805
 Jupiter is now a small star,
 
-222
+223
 00:07:18,825 --> 00:07:19,980
 and back on Earth,
 
-223
+224
 00:07:20,000 --> 00:07:21,880
 people look up and see two suns
 
-224
+225
 00:07:21,900 --> 00:07:22,897
 in the sky.
 
-225
+226
 00:07:23,630 --> 00:07:26,175
 On Earth, the leaders read the message.
 
-226
+227
 00:07:26,195 --> 00:07:27,975
 Seeing a new sun in the sky,
 
-227
+228
 00:07:27,995 --> 00:07:31,575
 America and the Soviet Union step back from war.
 
-228
+229
 00:07:31,595 --> 00:07:32,725
 On the way home,
 
-229
-00:07:32,745 --> 00:07:34,225
-Floyd writes to his son about
-
 230
-00:07:34,245 --> 00:07:35,845
-what it all means.
+00:07:32,745 --> 00:07:33,975
+Floyd writes to his son
 
 231
+00:07:33,995 --> 00:07:35,845
+about what it all means.
+
+232
 00:07:35,955 --> 00:07:36,885
 And far away,
 
-232
+233
 00:07:36,905 --> 00:07:38,110
 under the new sun,
 
-233
+234
 00:07:38,130 --> 00:07:39,645
 Europa's ice melts,
 
-234
+235
 00:07:39,665 --> 00:07:41,470
 and life begins to grow,
 
-235
+236
 00:07:41,490 --> 00:07:43,820
 while a monolith stands waiting.
 
-236
+237
 00:07:43,840 --> 00:07:45,866
 That's the year we made contact.
 
