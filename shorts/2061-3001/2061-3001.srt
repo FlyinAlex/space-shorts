@@ -1,456 +1,908 @@
 1
-00:00:02,055 --> 00:00:03,975
+00:00:02,097 --> 00:00:04,532
 Last time, in 2010,
 
 2
-00:00:03,995 --> 00:00:05,690
-Jupiter became a second sun,
+00:00:04,552 --> 00:00:06,457
+a crew went back to Jupiter,
 
 3
-00:00:05,710 --> 00:00:07,495
-and a message went out to Earth:
+00:00:06,477 --> 00:00:07,757
+found the ship Discovery,
 
 4
-00:00:07,515 --> 00:00:10,585
-all these worlds are yours, except Europa.
+00:00:07,777 --> 00:00:10,757
+and woke up its computer, HAL.
 
 5
-00:00:10,605 --> 00:00:13,485
-Dave and HAL vanished into the monolith.
+00:00:10,777 --> 00:00:13,557
+Then Jupiter collapsed into a second sun,
 
 6
-00:00:13,505 --> 00:00:14,655
-There are no more movies,
+00:00:13,577 --> 00:00:15,532
+and a message reached Earth:
 
 7
-00:00:14,675 --> 00:00:17,080
-but Arthur C. Clarke wrote two more
+00:00:15,552 --> 00:00:18,560
+all these worlds are yours, except Europa.
 
 8
-00:00:17,100 --> 00:00:20,480
-books: 2061 and 3001.
+00:00:18,580 --> 00:00:21,465
+Dave and HAL vanished into the monolith.
 
 9
-00:00:20,500 --> 00:00:22,480
-Clarke said each book is a variation
+00:00:21,485 --> 00:00:22,710
+There are no more movies,
 
 10
-00:00:22,500 --> 00:00:23,205
-on a theme,
+00:00:22,730 --> 00:00:25,285
+but Arthur C. Clarke wrote two more
 
 11
-00:00:23,225 --> 00:00:25,030
-so details shift a little.
+00:00:25,305 --> 00:00:28,785
+books, 2061 and 3001.
 
 12
-00:00:25,050 --> 00:00:26,480
-Here's part three.
+00:00:28,805 --> 00:00:31,110
+Clarke called them variations on a theme,
 
 13
-00:00:26,500 --> 00:00:27,775
-Spoilers ahead!
+00:00:31,130 --> 00:00:33,885
+so some details change from book to book.
 
 14
-00:00:28,445 --> 00:00:30,225
-It's 2061.
+00:00:33,905 --> 00:00:35,435
+This is part three.
 
 15
-00:00:30,245 --> 00:00:32,050
-Heywood Floyd is now a hundred
+00:00:35,455 --> 00:00:36,753
+Spoilers ahead!
 
 16
-00:00:32,070 --> 00:00:33,275
-and three years old,
+00:00:37,433 --> 00:00:40,573
+It's 2061, fifty-one years later.
 
 17
-00:00:33,295 --> 00:00:36,050
-kept healthy by living in low gravity.
+00:00:40,593 --> 00:00:42,548
+Heywood Floyd is now a hundred
 
 18
-00:00:36,070 --> 00:00:38,825
-People call Jupiter's new sun Lucifer,
+00:00:42,568 --> 00:00:44,268
+and three years old.
 
 19
-00:00:38,845 --> 00:00:42,025
-and Europa is hidden under thick clouds.
+00:00:44,323 --> 00:00:45,728
+He lives on a space station
 
 20
-00:00:42,045 --> 00:00:43,175
-Floyd is a guest
+00:00:45,748 --> 00:00:47,953
+in orbit, where low gravity
 
 21
-00:00:43,195 --> 00:00:45,825
-on a luxury spaceship called Universe,
+00:00:47,973 --> 00:00:50,473
+has kept him healthy for decades.
 
 22
-00:00:45,845 --> 00:00:47,700
-headed for Halley's Comet.
+00:00:50,558 --> 00:00:51,913
+Most people his age would
 
 23
-00:00:47,720 --> 00:00:48,375
-He becomes one
+00:00:51,933 --> 00:00:53,508
+be long gone.
 
 24
-00:00:48,395 --> 00:00:50,025
-of the first people ever to walk
+00:00:53,583 --> 00:00:54,588
+But Floyd still
 
 25
-00:00:50,045 --> 00:00:51,224
-on its surface.
+00:00:54,608 --> 00:00:56,702
+has one more big trip ahead of him.
 
 26
-00:00:51,959 --> 00:00:54,939
-Meanwhile, Floyd's grandson Chris is an officer
+00:00:57,468 --> 00:00:59,123
+Out in the solar system,
 
 27
-00:00:54,959 --> 00:00:56,903
-on another ship, the Galaxy.
+00:00:59,143 --> 00:01:01,543
+Jupiter now shines as a small sun,
 
 28
-00:00:56,923 --> 00:00:59,574
-A stewardess tries to hijack it
+00:01:01,563 --> 00:01:03,493
+and people call it Lucifer.
 
 29
-00:00:59,594 --> 00:01:01,794
-and force it toward Europa.
+00:01:03,513 --> 00:01:05,793
+Its warmth is melting Europa's ice
 
 30
-00:01:01,844 --> 00:01:03,509
-The plan goes wrong,
+00:01:05,813 --> 00:01:07,028
+into an ocean,
 
 31
-00:01:03,529 --> 00:01:05,284
-and the Galaxy splashes down
+00:01:07,048 --> 00:01:10,153
+and thick clouds now hide the moon from view.
 
 32
-00:01:05,304 --> 00:01:07,334
-in Europa's new ocean.
+00:01:10,173 --> 00:01:12,378
+Nobody has dared to land there.
 
 33
-00:01:07,354 --> 00:01:08,934
-The crew is stranded,
+00:01:12,398 --> 00:01:15,503
+The warning from 2010 still stands:
 
 34
-00:01:08,954 --> 00:01:10,659
-on the one world humans were warned
+00:01:15,523 --> 00:01:17,423
+Europa is off limits.
 
 35
-00:01:10,679 --> 00:01:12,229
-to stay away from.
+00:01:18,175 --> 00:01:20,480
+Floyd is invited on the first voyage
 
 36
-00:01:12,349 --> 00:01:14,354
-And right nearby is a mountain made
+00:01:20,500 --> 00:01:21,328
+of the Universe,
 
 37
-00:01:14,374 --> 00:01:15,971
-of solid diamond.
+00:01:21,348 --> 00:01:25,430
+a luxury spaceship with famous passengers on board.
 
 38
-00:01:16,667 --> 00:01:17,772
-The mountain is a piece
+00:01:25,450 --> 00:01:27,055
+It's headed for Halley's Comet,
 
 39
-00:01:17,792 --> 00:01:19,357
-of Jupiter's old core,
+00:01:27,075 --> 00:01:28,630
+which swings past the Sun
 
 40
-00:01:19,377 --> 00:01:21,807
-blasted out when the planet collapsed.
+00:01:28,650 --> 00:01:31,280
+about every seventy-six years.
 
 41
-00:01:21,827 --> 00:01:24,032
-The Universe changes course and rescues
+00:01:31,300 --> 00:01:33,305
+Floyd saw it once before,
 
 42
-00:01:24,052 --> 00:01:25,657
-the stranded crew.
+00:01:33,325 --> 00:01:35,280
+back in 1986,
 
 43
-00:01:25,677 --> 00:01:26,432
-Along the way,
+00:01:35,300 --> 00:01:36,730
+as a young man.
 
 44
-00:01:26,452 --> 00:01:28,107
-they glimpse the Europans,
+00:01:36,750 --> 00:01:37,955
+Now he gets to see it
 
 45
-00:01:28,127 --> 00:01:31,077
-strange creatures crawling out of the sea.
+00:01:37,975 --> 00:01:38,971
+a second time.
 
 46
-00:01:31,177 --> 00:01:32,807
-And Clarke reveals that Dave
+00:01:39,647 --> 00:01:43,527
+The Universe lands on the comet's dark, icy core.
 
 47
-00:01:32,827 --> 00:01:36,957
-and HAL still live inside the monolith, watching.
+00:01:43,547 --> 00:01:45,327
+Floyd steps out and becomes one
 
 48
-00:01:36,977 --> 00:01:38,682
-In about a thousand years,
+00:01:45,347 --> 00:01:47,002
+of the first people ever to walk
 
 49
-00:01:38,702 --> 00:01:40,250
-humans will be judged.
+00:01:47,022 --> 00:01:48,797
+on Halley's surface.
 
 50
-00:01:41,007 --> 00:01:43,862
-Now jump to the year 3001.
+00:01:48,917 --> 00:01:49,997
+As the comet warms
 
 51
-00:01:43,882 --> 00:01:44,887
-Far out at the edge
+00:01:50,017 --> 00:01:51,397
+up near the Sun,
 
 52
-00:01:44,907 --> 00:01:46,031
-of the solar system,
+00:01:51,417 --> 00:01:53,677
+jets of gas and dust burst out
 
 53
-00:01:46,051 --> 00:01:47,792
-a space tug finds
+00:01:53,697 --> 00:01:55,697
+of the ground like geysers.
 
 54
-00:01:47,812 --> 00:01:50,367
-a frozen body drifting in the dark.
+00:01:55,717 --> 00:01:58,497
+That's where a comet's glowing tail comes from.
 
 55
-00:01:50,387 --> 00:01:51,742
-It's Frank Poole,
+00:01:59,192 --> 00:02:02,197
+Meanwhile, Floyd's grandson Chris is an officer
 
 56
-00:01:51,762 --> 00:01:55,507
-the astronaut HAL sent spinning into space,
+00:02:02,217 --> 00:02:04,592
+on another ship, the Galaxy.
 
 57
-00:01:55,527 --> 00:01:57,357
-a thousand years earlier.
+00:02:04,707 --> 00:02:07,162
+It's exploring the moons of Jupiter,
 
 58
-00:01:57,377 --> 00:02:00,107
-Future medicine brings him back to life.
+00:02:07,182 --> 00:02:08,137
+flying from one
 
 59
-00:02:00,127 --> 00:02:00,857
-Frank wakes up
+00:02:08,157 --> 00:02:10,437
+to the next to study them up close.
 
 60
-00:02:00,877 --> 00:02:03,120
-in a world he barely recognizes.
+00:02:10,457 --> 00:02:12,637
+It's a quiet science mission.
 
 61
-00:02:03,904 --> 00:02:06,234
-Earth now has four giant towers
+00:02:12,657 --> 00:02:14,647
+Everything seems routine,
 
 62
-00:02:06,254 --> 00:02:08,084
-that rise from the equator all
+00:02:14,667 --> 00:02:16,322
+until one of the crew turns out
 
 63
-00:02:08,104 --> 00:02:09,759
-the way up into space,
+00:02:16,342 --> 00:02:17,901
+to be hiding a secret.
 
 64
-00:02:09,779 --> 00:02:11,809
-joined by a ring around the planet
+00:02:18,616 --> 00:02:21,696
+A stewardess named Rose suddenly takes control
 
 65
-00:02:11,829 --> 00:02:13,409
-where people live.
+00:02:21,716 --> 00:02:23,216
+of the Galaxy.
 
 66
-00:02:13,429 --> 00:02:14,834
-Instead of screens,
+00:02:23,351 --> 00:02:25,006
+She forces the pilot to steer
 
 67
-00:02:14,854 --> 00:02:16,859
-people wear BrainCaps that connect
+00:02:25,026 --> 00:02:27,506
+for Europa, the one world humans
 
 68
-00:02:16,879 --> 00:02:19,309
-their minds straight to computers.
+00:02:27,526 --> 00:02:29,481
+were warned to stay away from.
 
 69
-00:02:19,329 --> 00:02:22,229
-Humans live on the moons of Jupiter.
+00:02:29,501 --> 00:02:31,131
+She won't say why.
 
 70
-00:02:22,354 --> 00:02:24,084
-And everyone wants to meet the man
+00:02:31,151 --> 00:02:32,331
+It seems someone back
 
 71
-00:02:24,104 --> 00:02:25,980
-from the year 2001.
+00:02:32,351 --> 00:02:33,681
+on Earth badly wants
 
 72
-00:02:26,662 --> 00:02:28,092
-Frank travels to Europa,
+00:02:33,701 --> 00:02:35,746
+to know what's hidden on that moon.
 
 73
-00:02:28,112 --> 00:02:30,067
-and something reaches out to him:
+00:02:36,422 --> 00:02:38,202
+The landing goes wrong.
 
 74
-00:02:30,087 --> 00:02:32,217
-Dave Bowman and HAL,
+00:02:38,222 --> 00:02:40,752
+The Galaxy comes down hard and splashes
 
 75
-00:02:32,237 --> 00:02:35,392
-now merged into one mind, called Halman.
+00:02:40,772 --> 00:02:42,872
+into Europa's new ocean.
 
 76
-00:02:35,412 --> 00:02:37,717
-Halman has been inside the monolith all
+00:02:42,947 --> 00:02:44,182
+The crew survives,
 
 77
-00:02:37,737 --> 00:02:40,222
-this time, learning how it works.
+00:02:44,202 --> 00:02:46,307
+but the ship can't take off again.
 
 78
-00:02:40,242 --> 00:02:41,797
-And he has a warning.
+00:02:46,327 --> 00:02:47,657
+They're stranded.
 
 79
-00:02:41,817 --> 00:02:44,022
-The monolith is not a god.
+00:02:47,677 --> 00:02:49,112
+As the Galaxy floats,
 
 80
-00:02:44,042 --> 00:02:45,172
-It's a machine,
+00:02:49,132 --> 00:02:51,987
+they spot something huge near the shore:
 
 81
-00:02:45,192 --> 00:02:46,822
-and it's been reporting on humans
+00:02:52,007 --> 00:02:54,630
+a mountain that glitters in Lucifer's light.
 
 82
-00:02:46,842 --> 00:02:48,021
-to its makers.
+00:02:55,230 --> 00:02:56,910
+It's called Mount Zeus,
 
 83
-00:02:48,752 --> 00:02:50,907
-Those makers are so far away
+00:02:56,930 --> 00:02:59,285
+and it's made of solid diamond.
 
 84
-00:02:50,927 --> 00:02:52,457
-that their answer took centuries
+00:02:59,305 --> 00:03:00,960
+Deep inside Jupiter,
 
 85
-00:02:52,477 --> 00:02:53,752
-to come back.
+00:03:00,980 --> 00:03:04,355
+crushing pressure had turned carbon into diamond.
 
 86
-00:02:53,832 --> 00:02:55,312
-Now it has arrived,
+00:03:04,380 --> 00:03:05,612
+When the planet collapsed,
 
 87
-00:02:55,332 --> 00:02:57,087
-and it's bad news.
+00:03:05,632 --> 00:03:07,010
+a chunk of its core
 
 88
-00:02:57,107 --> 00:02:58,687
-The monolith's new orders
+00:03:07,030 --> 00:03:10,135
+was blasted out and landed on Europa.
 
 89
-00:02:58,707 --> 00:03:00,857
-are to wipe out humanity.
+00:03:10,155 --> 00:03:11,285
+A diamond the size
 
 90
-00:03:00,942 --> 00:03:02,822
-The same machine that taught apes
+00:03:11,305 --> 00:03:12,535
+of a mountain could shake
 
 91
-00:03:02,842 --> 00:03:06,222
-to use tools now plans to end the story.
+00:03:12,555 --> 00:03:14,635
+up Earth's whole economy.
 
 92
-00:03:06,242 --> 00:03:07,997
-Humans have very little time
+00:03:14,655 --> 00:03:16,135
+That may be why someone wanted
 
 93
-00:03:08,017 --> 00:03:09,084
-to fight back.
+00:03:16,155 --> 00:03:17,405
+to get there first.
 
 94
-00:03:09,841 --> 00:03:11,246
-Deep inside a mountain
+00:03:18,111 --> 00:03:19,741
+The only ship that can reach them
 
 95
-00:03:11,266 --> 00:03:13,121
-on the Moon called Pico,
+00:03:19,761 --> 00:03:21,541
+in time is the Universe,
 
 96
-00:03:13,141 --> 00:03:14,346
-there's a sealed vault
+00:03:21,561 --> 00:03:23,761
+still out near Halley's Comet.
 
 97
-00:03:14,366 --> 00:03:17,971
-of the most dangerous computer viruses ever made.
+00:03:23,841 --> 00:03:25,946
+Its captain turns around and races
 
 98
-00:03:17,991 --> 00:03:19,906
-Frank's team takes some out,
+00:03:25,966 --> 00:03:28,021
+toward Jupiter at top speed,
 
 99
-00:03:19,926 --> 00:03:22,331
-and Halman carries them into the monolith,
+00:03:28,041 --> 00:03:29,971
+with Floyd on board.
 
 100
-00:03:22,351 --> 00:03:24,256
-like a Trojan horse.
+00:03:29,991 --> 00:03:31,796
+Now Floyd is flying to save
 
 101
-00:03:24,276 --> 00:03:25,856
-The plan works.
+00:03:31,816 --> 00:03:33,396
+his own grandson.
 
 102
-00:03:25,876 --> 00:03:28,246
-The virus spreads through the monoliths,
+00:03:33,416 --> 00:03:35,071
+After a long chase,
 
 103
-00:03:28,266 --> 00:03:29,846
-and they shut down for good,
+00:03:35,091 --> 00:03:37,271
+the Universe lands on Europa,
 
 104
-00:03:29,866 --> 00:03:31,323
-before they can strike.
+00:03:37,291 --> 00:03:39,232
+right next to the stranded crew.
 
 105
-00:03:32,062 --> 00:03:34,067
-So that's the whole odyssey.
+00:03:39,909 --> 00:03:40,614
+While they wait,
 
 106
-00:03:34,087 --> 00:03:36,837
-A monolith taught apes to use tools.
+00:03:40,634 --> 00:03:43,214
+the crew glimpses Europa's new life:
 
 107
-00:03:36,927 --> 00:03:38,815
-Another called humans to Jupiter.
+00:03:43,234 --> 00:03:46,114
+strange creatures crawling out of the sea.
 
 108
-00:03:38,835 --> 00:03:42,092
-A third turned Jupiter into a sun.
+00:03:46,134 --> 00:03:47,839
+Everyone gets home safely,
 
 109
-00:03:42,202 --> 00:03:43,032
-And in the end,
+00:03:47,859 --> 00:03:50,334
+and the Europans are left in peace.
 
 110
-00:03:43,052 --> 00:03:44,757
-humans used their own tools
+00:03:50,399 --> 00:03:53,104
+But someone was watching all along.
 
 111
-00:03:44,777 --> 00:03:46,057
-to stop them.
+00:03:53,124 --> 00:03:54,634
+Inside the monolith,
 
 112
-00:03:46,077 --> 00:03:47,407
-Clarke ends with a hint
+00:03:54,654 --> 00:03:57,479
+Dave and HAL are guarding the Europans.
 
 113
-00:03:47,427 --> 00:03:49,757
-that the makers may notice someday.
+00:03:57,579 --> 00:03:59,334
+And in about a thousand years,
 
 114
-00:03:49,777 --> 00:03:52,364
+00:03:59,354 --> 00:04:00,950
+humans will be judged.
+
+115
+00:04:01,691 --> 00:04:03,821
+Now jump ahead a thousand years,
+
+116
+00:04:03,841 --> 00:04:06,021
+to the year 3001.
+
+117
+00:04:06,041 --> 00:04:07,302
+Out past Neptune,
+
+118
+00:04:07,322 --> 00:04:09,526
+a space tug called Goliath
+
+119
+00:04:09,546 --> 00:04:11,476
+is collecting ice comets.
+
+120
+00:04:11,496 --> 00:04:13,351
+Instead, its crew finds
+
+121
+00:04:13,371 --> 00:04:15,976
+a frozen body drifting in the dark.
+
+122
+00:04:15,996 --> 00:04:17,301
+It's Frank Poole,
+
+123
+00:04:17,321 --> 00:04:19,226
+the astronaut HAL sent spinning
+
+124
+00:04:19,246 --> 00:04:22,076
+into space back in 2001.
+
+125
+00:04:22,096 --> 00:04:23,401
+He's been floating out there
+
+126
+00:04:23,421 --> 00:04:25,013
+for a thousand years.
+
+127
+00:04:25,779 --> 00:04:27,859
+Doctors of the future bring Frank back
+
+128
+00:04:27,879 --> 00:04:29,634
+to life, which takes months
+
+129
+00:04:29,654 --> 00:04:31,184
+of careful work.
+
+130
+00:04:31,204 --> 00:04:32,834
+When he finally wakes up,
+
+131
+00:04:32,854 --> 00:04:34,684
+he's the only person alive
+
+132
+00:04:34,704 --> 00:04:36,859
+from the year 2001.
+
+133
+00:04:36,879 --> 00:04:40,284
+His guide is a historian named Indra Wallace.
+
+134
+00:04:40,304 --> 00:04:41,284
+She helps him catch
+
+135
+00:04:41,304 --> 00:04:42,584
+up on a thousand years
+
+136
+00:04:42,604 --> 00:04:44,366
+of history he slept through.
+
+137
+00:04:45,152 --> 00:04:47,082
+Earth looks different now.
+
+138
+00:04:47,102 --> 00:04:48,882
+Four giant towers rise
+
+139
+00:04:48,902 --> 00:04:50,432
+from the equator all the way
+
+140
+00:04:50,452 --> 00:04:51,932
+up into space.
+
+141
+00:04:51,952 --> 00:04:52,932
+At the top,
+
+142
+00:04:52,952 --> 00:04:54,132
+they hold up a ring
+
+143
+00:04:54,152 --> 00:04:55,389
+around the whole planet,
+
+144
+00:04:55,409 --> 00:04:59,132
+a city in orbit where people live and work.
+
+145
+00:04:59,152 --> 00:05:01,862
+Elevators run up and down the towers,
+
+146
+00:05:01,882 --> 00:05:03,537
+so nobody needs a rocket
+
+147
+00:05:03,557 --> 00:05:04,805
+to reach space.
+
+148
+00:05:05,515 --> 00:05:07,405
+Instead of phones or screens,
+
+149
+00:05:07,425 --> 00:05:08,965
+people wear BrainCaps,
+
+150
+00:05:08,985 --> 00:05:12,060
+which connect their minds straight to computers.
+
+151
+00:05:12,195 --> 00:05:13,085
+To wear one,
+
+152
+00:05:13,105 --> 00:05:15,035
+you have to shave your head.
+
+153
+00:05:15,055 --> 00:05:16,385
+Frank tries one,
+
+154
+00:05:16,405 --> 00:05:19,485
+and information pours straight into his brain.
+
+155
+00:05:19,505 --> 00:05:21,260
+It's like the internet he knew,
+
+156
+00:05:21,280 --> 00:05:23,699
+except the screen is inside his head.
+
+157
+00:05:24,452 --> 00:05:25,907
+Frank wants to see the place
+
+158
+00:05:25,927 --> 00:05:28,002
+where his old mission ended.
+
+159
+00:05:28,087 --> 00:05:29,842
+So he joins Captain Chandler
+
+160
+00:05:29,862 --> 00:05:31,417
+of the Goliath on a trip out
+
+161
+00:05:31,437 --> 00:05:33,267
+to Jupiter's moons.
+
+162
+00:05:33,287 --> 00:05:35,417
+Humans now live on Ganymede,
+
+163
+00:05:35,437 --> 00:05:37,417
+under the light of Lucifer.
+
+164
+00:05:37,437 --> 00:05:40,492
+From there, Frank looks across at Europa,
+
+165
+00:05:40,512 --> 00:05:42,840
+the one world that's still off limits.
+
+166
+00:05:43,582 --> 00:05:45,557
+Frank flies down to Europa,
+
+167
+00:05:45,577 --> 00:05:47,582
+and something reaches out to him.
+
+168
+00:05:47,602 --> 00:05:48,817
+It's Dave Bowman,
+
+169
+00:05:48,837 --> 00:05:50,342
+or a copy of him,
+
+170
+00:05:50,362 --> 00:05:52,542
+living inside the monolith.
+
+171
+00:05:52,562 --> 00:05:54,067
+Dave and HAL have merged
+
+172
+00:05:54,087 --> 00:05:56,557
+into one mind, called Halman.
+
+173
+00:05:56,577 --> 00:05:57,832
+For a thousand years,
+
+174
+00:05:57,852 --> 00:06:00,257
+Halman has been inside the machine,
+
+175
+00:06:00,277 --> 00:06:02,407
+quietly learning how it works.
+
+176
+00:06:03,172 --> 00:06:05,177
+Halman explains the truth.
+
+177
+00:06:05,197 --> 00:06:07,352
+The monolith is not a god.
+
+178
+00:06:07,372 --> 00:06:08,327
+It's a machine,
+
+179
+00:06:08,347 --> 00:06:12,227
+built by unknown makers far out among the stars.
+
+180
+00:06:12,247 --> 00:06:14,127
+Back in 2001,
+
+181
+00:06:14,147 --> 00:06:15,877
+when humans dug up the monolith
+
+182
+00:06:15,897 --> 00:06:16,877
+on the Moon,
+
+183
+00:06:16,897 --> 00:06:18,952
+it sent a report about us.
+
+184
+00:06:18,972 --> 00:06:21,637
+That message took centuries to arrive,
+
+185
+00:06:21,657 --> 00:06:23,162
+and the answer took centuries
+
+186
+00:06:23,182 --> 00:06:24,191
+to come back.
+
+187
+00:06:24,881 --> 00:06:26,636
+Now the answer has arrived,
+
+188
+00:06:26,656 --> 00:06:28,361
+and it's bad news.
+
+189
+00:06:28,381 --> 00:06:30,111
+The makers have judged humans
+
+190
+00:06:30,131 --> 00:06:31,546
+to be dangerous,
+
+191
+00:06:31,566 --> 00:06:33,271
+and the monolith's new orders
+
+192
+00:06:33,291 --> 00:06:35,541
+are to wipe out humanity.
+
+193
+00:06:35,596 --> 00:06:37,501
+The same machine that taught apes
+
+194
+00:06:37,521 --> 00:06:41,076
+to use tools now plans to end the story.
+
+195
+00:06:41,096 --> 00:06:42,751
+Humans have very little time
+
+196
+00:06:42,771 --> 00:06:43,854
+to fight back.
+
+197
+00:06:44,505 --> 00:06:46,585
+But humans have dangerous tools
+
+198
+00:06:46,605 --> 00:06:47,885
+of their own.
+
+199
+00:06:47,905 --> 00:06:49,385
+Deep inside a mountain
+
+200
+00:06:49,405 --> 00:06:51,260
+on the Moon called Pico,
+
+201
+00:06:51,280 --> 00:06:53,085
+there's a sealed vault.
+
+202
+00:06:53,105 --> 00:06:55,860
+It holds the most dangerous computer viruses
+
+203
+00:06:55,880 --> 00:06:57,830
+ever made, locked away
+
+204
+00:06:57,850 --> 00:06:59,850
+so they can never escape.
+
+205
+00:06:59,875 --> 00:07:02,782
+Frank's team carefully takes out the worst of them.
+
+206
+00:07:03,494 --> 00:07:06,599
+Halman carries the viruses into the monolith,
+
+207
+00:07:06,619 --> 00:07:08,174
+hidden inside himself,
+
+208
+00:07:08,194 --> 00:07:09,474
+like the Trojan horse
+
+209
+00:07:09,494 --> 00:07:11,324
+in the old Greek story.
+
+210
+00:07:11,344 --> 00:07:12,899
+The plan works.
+
+211
+00:07:12,919 --> 00:07:15,074
+The virus spreads from one monolith
+
+212
+00:07:15,094 --> 00:07:16,099
+to the next,
+
+213
+00:07:16,119 --> 00:07:17,574
+and they shut down for good,
+
+214
+00:07:17,594 --> 00:07:19,274
+before they can strike.
+
+215
+00:07:19,294 --> 00:07:20,729
+Humanity is safe,
+
+216
+00:07:20,749 --> 00:07:21,909
+at least for now.
+
+217
+00:07:22,617 --> 00:07:24,052
+So that's the whole odyssey,
+
+218
+00:07:24,072 --> 00:07:27,012
+across four books and a thousand years.
+
+219
+00:07:27,032 --> 00:07:29,782
+A monolith taught apes to use tools.
+
+220
+00:07:29,887 --> 00:07:31,776
+Another called humans to Jupiter.
+
+221
+00:07:31,796 --> 00:07:35,057
+A third turned Jupiter into a sun.
+
+222
+00:07:35,157 --> 00:07:36,087
+And in the end,
+
+223
+00:07:36,107 --> 00:07:37,787
+humans used their own tools
+
+224
+00:07:37,807 --> 00:07:39,087
+to stop them.
+
+225
+00:07:39,107 --> 00:07:40,462
+Clarke ends with a hint
+
+226
+00:07:40,482 --> 00:07:42,837
+that the makers may notice someday.
+
+227
+00:07:42,857 --> 00:07:45,423
 Until then, the future belongs to us.
 
